@@ -6,4 +6,5 @@ jobs:
   testing:
     runs-on: ubuntu-latest
     steps:
-      - run: echo hi
+      - run: rasa train
+      - run: rasa shell
