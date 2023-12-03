@@ -1,0 +1,9 @@
+name: test_case
+on:
+  push:
+    branches: [master,dev]
+jobs:
+  testing:
+    runs-on: unbutu-latest
+    steps:
+      - run: echo hi
