@@ -1,0 +1,76 @@
+version: "3.1"
+
+intents:
+# Ý đồ khách hàng
+ - greet
+ - bye
+ - thank
+ - ask_func_list
+ - ask_name
+ - ask_tin_moi
+ - ask_adr
+ - hoi_nd_luat
+
+entities:
+  - CL_adr:
+      auto_fill: true
+  - CL_name:
+      auto_fill: true
+  - ten_luat:
+      auto_fill: true
+
+slots:
+  CL_adr:
+    type: text
+    mappings: # Thêm mappings cho slot CL_adr
+     - type: from_entity
+       entity: CL_adr
+  CL_name:
+    type: text
+    mappings: # Thêm mappings cho slot CL_name
+     - type: from_entity
+       entity: CL_name
+  ten_luat:
+    type: text
+    mappings: # Thêm mappings cho slot CL_name
+    -  type: from_entity
+       entity: ten_luat
+
+responses:
+# Bot trả lời
+ utter_greet:
+  - text: "Kính chào Quý khách!"
+ utter_bye:
+  - text: "Kính chào tạm biệt và mong sớm gặp lại quý khách!"
+  - text: "Kính chào tạm biệt và chúc quý khách một ngày tốt lành!"
+ utter_thank:
+  - text: "Cảm ơn quý khách quá khen ah!"
+  - text: "Dạ không có gì, đó là trách nhiệm của em mà!"
+ utter_func_list:
+  - text: "Em có thể làm được rất nhiều thứ: hát, đọc thơ, đọc chuyện...nhưng giờ em chỉ chat thôi!"
+ utter_ask_name:
+  - text: "Em họ Bank, tên Bot! Người ta hay gọi em là Bank Bot thông minh xinh đẹp giỏi giang nhất vũ trụ ạ! Quý khách cần trợ giúp gì ạ?"
+  - text: "Dạ thưa. Tên Tiếng Việt của em là Trợ lý ảo Ngân hàng nhưng em thích gọi bằng tên Tiếng Anh là Bank Bot cho nó Tây!"
+ utter_unclear:
+  - text: "Thưa quý khách, hiện tại tôi chưa hiểu được yêu cầu của Quý khách. "
+
+ utter_haha:
+  - text: "{CL_adr}, {CL_name}"
+
+actions:
+# templates (as they are reply actions),
+# also custom actions if any
+ - utter_greet
+ - utter_bye
+ - utter_unclear
+ - utter_func_list
+ - utter_thank
+ - utter_ask_name
+ - action_get_document
+ - action_ask_adr
+ - utter_haha
+ - action_nd_luat
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

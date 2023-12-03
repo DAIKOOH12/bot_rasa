@@ -1,0 +1,28 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-CL_adr",
+      "2": "I-CL_adr",
+      "3": "L-CL_adr",
+      "4": "U-CL_adr",
+      "5": "B-CL_name",
+      "6": "I-CL_name",
+      "7": "L-CL_name",
+      "8": "U-CL_name",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-CL_adr": 1,
+      "I-CL_adr": 2,
+      "L-CL_adr": 3,
+      "U-CL_adr": 4,
+      "B-CL_name": 5,
+      "I-CL_name": 6,
+      "L-CL_name": 7,
+      "U-CL_name": 8,
+      "O": 0
+    },
+    "num_tags": 9
+  }
+]

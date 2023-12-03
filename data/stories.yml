@@ -1,0 +1,70 @@
+version: "3.1"
+
+stories:
+#
+#- story: Chào - tên - hỏi chức năng - chào
+#  steps:
+#  - intent: greet
+#  - action: utter_greet
+#  - intent: ask_name
+#  - action: utter_ask_name
+#  - intent: ask_func_list
+#  - action: utter_func_list
+#  - intent: bye
+#  - action: utter_bye
+#
+#- story: Chào - hỏi chức năng - chào
+#  steps:
+#  - intent: greet
+#  - action: utter_greet
+#  - intent: ask_func_list
+#  - action: utter_func_list
+#  - intent: bye
+#  - action: utter_bye
+#
+#- story: Chào - hỏi tên - chào
+#  steps:
+#  - intent: greet
+#  - action: utter_greet
+#  - intent: ask_name
+#  - action: utter_ask_name
+#  - intent: bye
+#  - action: utter_bye
+#
+#- story:  Hỏi tên - hỏi chức năng
+#  steps:
+#  - intent: ask_name
+#  - action: utter_ask_name
+#  - intent: ask_func_list
+#  - action: utter_func_list
+#
+- story: Cảm ơn
+  steps:
+  - intent: thank
+  - action: utter_thank
+
+- story: chào
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: hỏi tên
+  steps:
+  - intent: ask_name
+  - action: utter_ask_name
+
+- story: câu chuyện mới
+  steps:
+  - intent: ask_tin_moi
+  - action: action_get_document
+
+
+- story: hỏi địa chỉ
+  steps:
+  - intent: ask_adr
+  - action: action_ask_adr
+
+- story: hỏi luật
+  steps:
+  - intent: hoi_nd_luat
+  - action: action_nd_luat
