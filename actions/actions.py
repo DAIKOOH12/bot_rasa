@@ -117,10 +117,10 @@ class action_nd_luat(Action):
         projection = {"score": {"$meta": "textScore"}}
 
         # Thực hiện truy vấn và sắp xếp kết quả
-        results = tra.find(query, projection).sort([("score", {"$meta": "textScore"})]).limit(2)
+        results = tra.find(query, projection).sort([("score", {"$meta": "textScore"})]).limit(1)
 
         for result in results:
-            dispatcher.utter_message(text=f"{result['Content']}")
+            dispatcher.utter_message(text=f"{result['Name']} ({result['link']}) \n {result['Content']}")
 
 
         # dispatcher.utter_message(ten)
