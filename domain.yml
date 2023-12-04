@@ -53,6 +53,7 @@ responses:
   - text: "Dạ thưa. Tên Tiếng Việt của em là Trợ lý ảo Ngân hàng nhưng em thích gọi bằng tên Tiếng Anh là Bank Bot cho nó Tây!"
  utter_unclear:
   - text: "Thưa quý khách, hiện tại tôi chưa hiểu được yêu cầu của Quý khách. "
+  - text: "Thông tin của quý khách không rõ ràng, bạn hãy nhập lại."
 
  utter_haha:
   - text: "{CL_adr}, {CL_name}"
