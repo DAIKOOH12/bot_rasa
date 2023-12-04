@@ -15,10 +15,10 @@ jobs:
       - name: Rasa Train and Test GitHub Action
         uses: RasaHQ/rasa-train-test-gha@main
         with:
-          data_validate: true # Validates domain and data files to check for possible mistakes
-          rasa_train: true # Run rasa train
-          rasa_test: true # Run rasa test
-          test_args: --fail-on-prediction-errors # Fail pipeline when test fails
+          data_validate: true # Kiểm tra lỗi của file data và domain
+          rasa_train: true # chạy rasa train
+          rasa_test: true # chạy rasa test
+          test_args: --fail-on-prediction-errors # báo lỗi pipeline khi project xảy ra lỗi
           test_type: all # Run both 'core' and 'nlu' tests
       - name: Upload model
         if: github.ref == 'refs/heads/master'
