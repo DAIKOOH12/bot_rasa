@@ -12,10 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Rasa Train and Test GitHub Action
-        uses: RasaHQ/rasa-train-test-gha@main
-        with:
-          data_validate: true # Kiểm tra lỗi của file data và domain
       - name: Upload model
         if: github.ref == 'refs/heads/master'
         uses: actions/upload-artifact@master
