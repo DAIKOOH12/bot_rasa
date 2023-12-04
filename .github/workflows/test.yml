@@ -1,10 +1,35 @@
-name: test_case
+name: Train and test Rasa
+
 on:
   push:
-    branches: [master,dev]
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
 jobs:
-  testing:
+  training-testing:
+    name: Training and Testing
     runs-on: ubuntu-latest
     steps:
-      - run: rasa train
-      - run: rasa shell
+      - uses: actions/checkout@v2
+      - name: Rasa Train and Test GitHub Action
+        uses: RasaHQ/rasa-train-test-gha@main
+        with:
+          data_validate: true # Validates domain and data files to check for possible mistakes
+          rasa_train: true # Run rasa train
+          rasa_test: true # Run rasa test
+          test_args: --fail-on-prediction-errors # Fail pipeline when test fails
+          test_type: all # Run both 'core' and 'nlu' tests
+      - name: Upload model
+        if: github.ref == 'refs/heads/master'
+        uses: actions/upload-artifact@master
+        with:
+          name: model
+          path: models
+      - name: Store test results
+        uses: actions/upload-artifact@v2
+        with:
+          name: test-results
+          path: |
+            results
+            reports
