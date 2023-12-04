@@ -1,0 +1,3740 @@
+[{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b0a"
+  },
+  "ID": "486C3C8A-B624-42C2-8976-9096907C0FEC",
+  "ChiMuc": "I",
+  "MAPC": "01004000000000001000",
+  "TEN": "Chương I NHỮNG QUY ĐỊNH CHUNG",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b0b"
+  },
+  "ID": "349B25D1-82D9-4AD6-8A0D-EB74F437EEEC",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000100000000000000000",
+  "TEN": "Điều 1.4.LQ.1. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b0c"
+  },
+  "ID": "1986A339-CCF9-49B2-A2FA-0A3CA0381720",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000200000000000000000",
+  "TEN": "Điều 1.4.LQ.2. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b0d"
+  },
+  "ID": "AEFE6BE9-1309-4CBF-914F-B93BE9257F38",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000100000300000000000000000",
+  "TEN": "Điều 1.4.LQ.3. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b0e"
+  },
+  "ID": "D453C709-3063-434C-AED7-A134CD6CC232",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000340214810140000010",
+  "TEN": "Điều 1.4.NĐ.1.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b0f"
+  },
+  "ID": "F983864C-64F1-428A-A74F-D7837386AFF4",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000340214810140000020",
+  "TEN": "Điều 1.4.NĐ.1.2. Đối tượng chấp hành pháp luật về biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b10"
+  },
+  "ID": "11525045-2C87-4531-B5D0-95BC8D1B7D45",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000340250760034000010",
+  "TEN": "Điều 1.4.NĐ.2.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b11"
+  },
+  "ID": "9D4F566E-B7CF-4BA0-A146-E47B21D4E3D5",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000340250760034000020",
+  "TEN": "Điều 1.4.NĐ.2.2. Đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b12"
+  },
+  "ID": "971545D7-E612-49D3-92ED-148BB63F4BF2",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000340252820112000010",
+  "TEN": "Điều 1.4.NĐ.3.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b13"
+  },
+  "ID": "8C2B2D27-B8CD-4F6E-A497-16F809CE26AA",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000340252820112000020",
+  "TEN": "Điều 1.4.NĐ.3.2. Đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b14"
+  },
+  "ID": "957EE228-B418-489A-8B3E-F6804ADF4ED5",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000340255680071000010",
+  "TEN": "Điều 1.4.NĐ.4.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b15"
+  },
+  "ID": "685468C9-610A-460A-BD12-6E70CE0FEBD6",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000340255680071000020",
+  "TEN": "Điều 1.4.NĐ.4.2. Đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b16"
+  },
+  "ID": "96ED87A9-AAFF-4170-A1F1-0F91936ABA27",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000340262370077000010",
+  "TEN": "Điều 1.4.NĐ.5.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b17"
+  },
+  "ID": "5EA9CF80-5C26-4EAE-9E0D-25001657973E",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000340262370077000020",
+  "TEN": "Điều 1.4.NĐ.5.2. Đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b18"
+  },
+  "ID": "D554B86F-9154-4A29-A8A0-3180ED6DA078",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000350257500010000010",
+  "TEN": "Điều 1.4.QĐ.2.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b19"
+  },
+  "ID": "8F5BAC44-8AC6-43DE-88BD-8E6574741CEB",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000350257500010000020",
+  "TEN": "Điều 1.4.QĐ.2.2. Đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b1a"
+  },
+  "ID": "1ADB2EF7-A6FC-47BB-AF66-A70C57F848C6",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000350268700015000010",
+  "TEN": "Điều 1.4.QĐ.4.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b1b"
+  },
+  "ID": "FE538722-69F1-420D-BD8B-E3BDD02C333A",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000350268700015000020",
+  "TEN": "Điều 1.4.QĐ.4.2. Đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b1c"
+  },
+  "ID": "3DB0C6C7-0F24-43DF-896A-187461E0CD50",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000380244760004000010",
+  "TEN": "Điều 1.4.TT.1.1. Đối tượng điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b1d"
+  },
+  "ID": "6CE7A45A-2D8F-4158-9810-C16EA6960858",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000380251380022000010",
+  "TEN": "Điều 1.4.TT.2.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b1e"
+  },
+  "ID": "A7C89CB9-F098-44B0-9951-644F1BE18AE1",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000380251380022000020",
+  "TEN": "Điều 1.4.TT.2.2. Đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b1f"
+  },
+  "ID": "6499A2AC-8429-4A91-807C-E9BFA27FE9DF",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000380254700043500010",
+  "TEN": "Điều 1.4.TT.3.1. Phạm vi điều chỉnh, đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b20"
+  },
+  "ID": "2B66B49C-7BE5-45D2-B1EF-EECD81870E1A",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000380257210009500010",
+  "TEN": "Điều 1.4.TT.4.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b21"
+  },
+  "ID": "7103EB02-5C54-4FCC-8959-8194E1849BF6",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000380257210009500020",
+  "TEN": "Điều 1.4.TT.4.2. Đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b22"
+  },
+  "ID": "16B75FDF-592E-4FAF-8DFA-F8152AC979DD",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000380259820162000010",
+  "TEN": "Điều 1.4.TT.5.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b23"
+  },
+  "ID": "7F274BF3-30D2-40FF-9692-0A6C82CB1CF9",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000380259820162000020",
+  "TEN": "Điều 1.4.TT.5.2. Đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b24"
+  },
+  "ID": "75276484-7C41-44F9-8437-972532AF1558",
+  "ChiMuc": "1",
+  "MAPC": "0100400000000000100000380261200049500010",
+  "TEN": "Điều 1.4.TT.6.1. Phạm vi điều chỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b25"
+  },
+  "ID": "B894FE45-2DD9-426E-A3EF-B27BB88B91E9",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000380261200049500020",
+  "TEN": "Điều 1.4.TT.6.2. Đối tượng áp dụng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b26"
+  },
+  "ID": "15DF745D-F5DE-4E1B-A6DC-2596332E006B",
+  "ChiMuc": "4",
+  "MAPC": "0100400000000000100000400000000000000000",
+  "TEN": "Điều 1.4.LQ.4. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b27"
+  },
+  "ID": "C3B5F8B0-F931-42FE-BE81-00CF2C64B4B1",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000100000440250760034000030",
+  "TEN": "Điều 1.4.NĐ.2.3. Giải thích từ ngữ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b28"
+  },
+  "ID": "347409C0-5ADB-4493-967A-174048FC5120",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000100000440252820112000030",
+  "TEN": "Điều 1.4.NĐ.3.3. Giải thích thuật ngữ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b29"
+  },
+  "ID": "87D2FD37-0D1F-4DB1-A864-B050B0A824CB",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000100000440255680071000030",
+  "TEN": "Điều 1.4.NĐ.4.3. Giải thích từ ngữ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b2a"
+  },
+  "ID": "92EAC037-FEF4-4988-A9C8-A5004AE18081",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000100000440262370077000030",
+  "TEN": "Điều 1.4.NĐ.5.3. Giải thích từ ngữ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b2b"
+  },
+  "ID": "60431B7D-F104-47C2-A689-23369C04A7C7",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000100000450257500010000030",
+  "TEN": "Điều 1.4.QĐ.2.3. Giải thích từ ngữ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b2c"
+  },
+  "ID": "35F6BE42-CD32-45FC-8353-2C7847988D9B",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000100000450268700015000030",
+  "TEN": "Điều 1.4.QĐ.4.3. Giải thích từ ngữ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b2d"
+  },
+  "ID": "1BB2B166-4B51-421F-BE08-A90D474AC957",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000100000480244760004000020",
+  "TEN": "Điều 1.4.TT.1.2. Giải thích thuật ngữ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b2e"
+  },
+  "ID": "56FCBE64-96B2-4D2F-BD8C-139FF9784716",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000100000480257210009500030",
+  "TEN": "Điều 1.4.TT.4.3. Giải thích từ ngữ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b2f"
+  },
+  "ID": "F1400B17-3A9A-4C1D-8DF8-7D347AD512AF",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000100000480259820162000030",
+  "TEN": "Điều 1.4.TT.5.3. Giải thích từ ngữ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b30"
+  },
+  "ID": "F0351A4F-3F51-4B6D-8904-EACD5BEC3A6D",
+  "ChiMuc": "5",
+  "MAPC": "0100400000000000100000500000000000000000",
+  "TEN": "Điều 1.4.LQ.5. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b31"
+  },
+  "ID": "B4E1B834-2CEC-48D0-830E-6A7C109735B9",
+  "ChiMuc": "3",
+  "MAPC": "010040000000000010000050000000000000000000402148101400000300",
+  "TEN": "Điều 1.4.NĐ.1.3. Biên giới quốc gia",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b32"
+  },
+  "ID": "46335F53-ADE5-4D19-89F9-8F04960B0F6A",
+  "ChiMuc": "4",
+  "MAPC": "010040000000000010000050000000000000000000402148101400000400",
+  "TEN": "Điều 1.4.NĐ.1.4. Biên giới quốc gia trên đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b33"
+  },
+  "ID": "84E4B604-6B67-4CD2-A7AE-61BE0CEC0A53",
+  "ChiMuc": "5",
+  "MAPC": "010040000000000010000050000000000000000000402148101400000500",
+  "TEN": "Điều 1.4.NĐ.1.5. Biên giới quốc gia trên biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b34"
+  },
+  "ID": "13BA8938-179E-4718-9083-A2FBD2C52EFF",
+  "ChiMuc": "6",
+  "MAPC": "010040000000000010000050000000000000000000402148101400000600",
+  "TEN": "Điều 1.4.NĐ.1.6. Lãnh hải",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b35"
+  },
+  "ID": "BF7A2E5A-8AF6-4664-B90E-E6719D2C41DC",
+  "ChiMuc": "7",
+  "MAPC": "010040000000000010000050000000000000000000402148101400000700",
+  "TEN": "Điều 1.4.NĐ.1.7. Đường ranh giới phía ngoài vùng tiếp giáp lãnh hải, vùng đặc quyền về kinh tế, thềm lục địa",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b36"
+  },
+  "ID": "AB03E452-078A-4A63-A59B-9F5E535135D3",
+  "ChiMuc": "6",
+  "MAPC": "0100400000000000100000600000000000000000",
+  "TEN": "Điều 1.4.LQ.6. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b37"
+  },
+  "ID": "2B36E9B6-6F22-4D3D-A2FA-5DACE3EBD1CC",
+  "ChiMuc": "8",
+  "MAPC": "010040000000000010000060000000000000000000402148101400000800",
+  "TEN": "Điều 1.4.NĐ.1.8. Khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b38"
+  },
+  "ID": "72A1D15C-C0A9-4AE8-A1CB-F1B4E051D042",
+  "ChiMuc": "7",
+  "MAPC": "0100400000000000100000700000000000000000",
+  "TEN": "Điều 1.4.LQ.7. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b39"
+  },
+  "ID": "48FC9FD2-2AAF-4577-93B8-C1846B2E361D",
+  "ChiMuc": "8",
+  "MAPC": "0100400000000000100000800000000000000000",
+  "TEN": "Điều 1.4.LQ.8. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b3a"
+  },
+  "ID": "C43752B7-59B4-445A-AB8F-3A3361E7295C",
+  "ChiMuc": "9",
+  "MAPC": "0100400000000000100000900000000000000000",
+  "TEN": "Điều 1.4.LQ.9. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b3b"
+  },
+  "ID": "F2098D1C-B44D-4775-8C35-CA1193EAD2FC",
+  "ChiMuc": "10",
+  "MAPC": "0100400000000000100001000000000000000000",
+  "TEN": "Điều 1.4.LQ.10. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b3c"
+  },
+  "ID": "75754D71-6E0A-403E-B91D-4A3CAD325C52",
+  "ChiMuc": "11",
+  "MAPC": "0100400000000000100001100000000000000000",
+  "TEN": "Điều 1.4.LQ.11. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b3d"
+  },
+  "ID": "34A5406F-7286-493D-ADC6-0B3238587068",
+  "ChiMuc": "18",
+  "MAPC": "010040000000000010000110000000000000000000402148101400001800",
+  "TEN": "Điều 1.4.NĐ.1.18. Giải quyết các vấn đề về biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b3e"
+  },
+  "ID": "296DD87B-83BD-4CE8-AA6D-075FCF56C1EA",
+  "ChiMuc": "12",
+  "MAPC": "0100400000000000100001200000000000000000",
+  "TEN": "Điều 1.4.LQ.12. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b3f"
+  },
+  "ID": "8079A27D-BCB7-4359-843A-29786454162F",
+  "ChiMuc": "1",
+  "MAPC": "010040000000000010000120000000000000000000802164501620000100",
+  "TEN": "Điều 1.4.TL.1.1. Nội dung chi ngân sách thực hiện công tác quản lý, bảo vệ biên giới quốc gia bao gồm:",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b40"
+  },
+  "ID": "40E28428-4E64-499F-A126-91DCE6563081",
+  "ChiMuc": "2",
+  "MAPC": "010040000000000010000120000000000000000000802164501620000200",
+  "TEN": "Điều 1.4.TL.1.2. Lập dự toán phân cấp, chấp hành và quyết toán ngân sách chi cho công tác quản lý, bảo vệ biên giới quốc gia.",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b41"
+  },
+  "ID": "2943536E-E64E-4A88-A59C-09FEE5421F7A",
+  "ChiMuc": "13",
+  "MAPC": "0100400000000000100001300000000000000000",
+  "TEN": "Điều 1.4.LQ.13. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b42"
+  },
+  "ID": "A0BFA12E-921F-478F-9F79-DB838FDC2459",
+  "ChiMuc": "14",
+  "MAPC": "0100400000000000100001400000000000000000",
+  "TEN": "Điều 1.4.LQ.14. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b43"
+  },
+  "ID": "62BF3CFB-9B10-4C4F-92D6-5CE7C81341A5",
+  "ChiMuc": "4",
+  "MAPC": "010040000000000010000140000000000000000000402507600340000400",
+  "TEN": "Điều 1.4.NĐ.2.4. Các hành vi bị nghiêm cấm trong khu vực biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b44"
+  },
+  "ID": "7ABFCB12-9071-4DF7-AB85-202FD1325EC7",
+  "ChiMuc": "7",
+  "MAPC": "010040000000000010000140000000000000000000402528201120000700",
+  "TEN": "Điều 1.4.NĐ.3.7. Các hành vi bị nghiêm cấm trong khu vực cửa khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b45"
+  },
+  "ID": "6B919104-4C3E-4444-B47B-1126326AA0DB",
+  "ChiMuc": "4",
+  "MAPC": "010040000000000010000140000000000000000000402556800710000400",
+  "TEN": "Điều 1.4.NĐ.4.4. Các hành vi bị nghiêm cấm trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b46"
+  },
+  "ID": "FF8EB20D-185A-4652-88D3-948E9BC6D029",
+  "ChiMuc": "II",
+  "MAPC": "01004000000000002000",
+  "TEN": "Chương II CHẾ ĐỘ PHÁP LÝ VỀ BIÊN GIỚI QUỐC GIA, KHU VỰC BIÊN GIỚI",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b47"
+  },
+  "ID": "8E08C239-9EB8-4FF0-AD70-F664827251D9",
+  "ChiMuc": "15",
+  "MAPC": "0100400000000000200001500000000000000000",
+  "TEN": "Điều 1.4.LQ.15. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b48"
+  },
+  "ID": "AEEEE5F6-99B5-4A6D-B8D2-E2E1D79E6A12",
+  "ChiMuc": "21",
+  "MAPC": "010040000000000020000150000000000000000000402148101400002100",
+  "TEN": "Điều 1.4.NĐ.1.21. Kiểm soát và bảo đảm an ninh, trật tự tại cửa khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b49"
+  },
+  "ID": "9D37DEC4-E155-49F6-B96C-448C81A0732C",
+  "ChiMuc": "4",
+  "MAPC": "010040000000000020000150000000000000000000402528201120000400",
+  "TEN": "Điều 1.4.NĐ.3.4. Loại hình cửa khẩu biên giới; lối mở biên giới; lối thông quan, đường chuyên dụng vận chuyển hàng hóa thuộc cửa khẩu quốc tế, cửa khẩu chính (cửa khẩu song phương)",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b4a"
+  },
+  "ID": "B5B73AE6-38E4-427E-BEAC-B83D2185268A",
+  "ChiMuc": "4",
+  "MAPC": "01004000000000002000015000000000000000000040252820112000040000802572100095000400",
+  "TEN": "Điều 1.4.TT.4.4. Xác định tính chất cửa khẩu biên giới đất liền theo quy định tại Điều 4 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b4b"
+  },
+  "ID": "387CEA0F-FC5C-4132-82D2-B3670F67BB48",
+  "ChiMuc": "13",
+  "MAPC": "01004000000000002000015000000000000000000040252820112000040000802572100095001300",
+  "TEN": "Điều 1.4.TT.4.13. Trách nhiệm kiểm tra, kiểm soát, giám sát biên phòng tại lối mở biên giới thực hiện chính sách thương mại biên giới quy định tại Khoản 4, Điều 4 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b4c"
+  },
+  "ID": "12CE4487-2652-465C-8EB4-776E9C5DA83A",
+  "ChiMuc": "5",
+  "MAPC": "010040000000000020000150000000000000000000402528201120000500",
+  "TEN": "Điều 1.4.NĐ.3.5. Nguyên tắc xuất, nhập qua cửa khẩu biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b4d"
+  },
+  "ID": "BEC6D971-9355-4FA8-809B-D95359FD2FA9",
+  "ChiMuc": "8",
+  "MAPC": "010040000000000020000150000000000000000000402528201120000800",
+  "TEN": "Điều 1.4.NĐ.3.8. Người xuất cảnh, nhập cảnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b4e"
+  },
+  "ID": "6293C117-25D5-4BD4-87F7-3C0906C4DA5A",
+  "ChiMuc": "8",
+  "MAPC": "01004000000000002000015000000000000000000040252820112000080000802572100095000800",
+  "TEN": "Điều 1.4.TT.4.8. Giấy tờ của người xuất cảnh, nhập cảnh qua cửa khẩu, lối mở biên giới đất liền quy định tại Điều 8 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b4f"
+  },
+  "ID": "DF0F6D2F-6B25-4B85-82C6-79435D8685B2",
+  "ChiMuc": "9",
+  "MAPC": "010040000000000020000150000000000000000000402528201120000900",
+  "TEN": "Điều 1.4.NĐ.3.9. Phương tiện xuất cảnh, nhập cảnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b50"
+  },
+  "ID": "865F6C09-9CB4-470A-A6D7-83A327EB158E",
+  "ChiMuc": "10",
+  "MAPC": "010040000000000020000150000000000000000000402528201120001000",
+  "TEN": "Điều 1.4.NĐ.3.10. Hàng hóa, vật phẩm xuất khẩu, nhập khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b51"
+  },
+  "ID": "153ED102-F78F-4995-A609-8E22F66A9EC5",
+  "ChiMuc": "11",
+  "MAPC": "010040000000000020000150000000000000000000402528201120001100",
+  "TEN": "Điều 1.4.NĐ.3.11. Khu vực cửa khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b52"
+  },
+  "ID": "F69C1C80-96A2-4985-804D-548F146FD1B4",
+  "ChiMuc": "5",
+  "MAPC": "01004000000000002000015000000000000000000040252820112000110000802572100095000500",
+  "TEN": "Điều 1.4.TT.4.5. Mẫu các loại biển báo, biển chỉ dẫn, bảng niêm yết tại khu vực cửa khẩu biên giới đất liền quy định tại Khoản 7 Điều 11 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b53"
+  },
+  "ID": "C7D4FA4C-6DCA-4D76-B16E-A1F7FA85CB38",
+  "ChiMuc": "6",
+  "MAPC": "01004000000000002000015000000000000000000040252820112000110000802572100095000600",
+  "TEN": "Điều 1.4.TT.4.6. Hệ thống Ba-ri-e kiểm soát tại cửa khẩu biên giới đất liền quy định tại Khoản 6 Điều 11 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b54"
+  },
+  "ID": "A23D2A74-856B-41DD-A357-84573C8A47EE",
+  "ChiMuc": "13",
+  "MAPC": "010040000000000020000150000000000000000000402528201120001300",
+  "TEN": "Điều 1.4.NĐ.3.13. Hoạt động ở khu vực cửa khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b55"
+  },
+  "ID": "CFF9A58D-220F-422F-9738-1C29E8353DE7",
+  "ChiMuc": "6",
+  "MAPC": "010040000000000020000150000000000000000000402556800710000600",
+  "TEN": "Điều 1.4.NĐ.4.6. Người, phương tiện Việt Nam hoạt động trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b56"
+  },
+  "ID": "4A6E96C4-6C4C-4DF1-8320-A5A87BCBFAB7",
+  "ChiMuc": "5",
+  "MAPC": "01004000000000002000015000000000000000000040255680071000060000802598201620000500",
+  "TEN": "Điều 1.4.TT.5.5. Người, phương tiện Việt Nam hoạt động trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b57"
+  },
+  "ID": "335A0F5B-BE76-4ECC-8D53-6E7287F26C25",
+  "ChiMuc": "7",
+  "MAPC": "010040000000000020000150000000000000000000402556800710000700",
+  "TEN": "Điều 1.4.NĐ.4.7. Người nước ngoài đến, hoạt động hoặc làm việc, học tập trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b58"
+  },
+  "ID": "00018214-BFFA-4938-AE21-ACFA1B9B1FF1",
+  "ChiMuc": "6",
+  "MAPC": "01004000000000002000015000000000000000000040255680071000070000802598201620000600",
+  "TEN": "Điều 1.4.TT.5.6. Người nước ngoài đến, hoạt động hoặc làm việc, học tập trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b59"
+  },
+  "ID": "E8595A0C-5487-40DC-9AB5-E93807307D27",
+  "ChiMuc": "1",
+  "MAPC": "010040000000000020000150000000000000000000502479800450000100",
+  "TEN": "Điều 1.4.QĐ.1.1. Ban hành kèm theo Quyết định này Quy chế điều hành hoạt động tại các cửa khẩu biên giới đất liền.",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b5a"
+  },
+  "ID": "668B24CF-2D6B-4698-8FCD-B863DF44C641",
+  "ChiMuc": "3",
+  "MAPC": "01004000000000002000015000000000000000000050247980045000010000802513800220000300",
+  "TEN": "Điều 1.4.TT.2.3. Ban Quản lý cửa khẩu và Trưởng cửa khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b5b"
+  },
+  "ID": "9CC3F054-BBEF-4C1B-A5F2-0F14C8262093",
+  "ChiMuc": "4",
+  "MAPC": "01004000000000002000015000000000000000000050247980045000010000802513800220000400",
+  "TEN": "Điều 1.4.TT.2.4. Văn phòng Ban Quản lý cửa khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b5c"
+  },
+  "ID": "EE9331F0-563F-46FC-9A3F-785E140C7684",
+  "ChiMuc": "5",
+  "MAPC": "01004000000000002000015000000000000000000050247980045000010000802513800220000500",
+  "TEN": "Điều 1.4.TT.2.5. Nội quy cửa khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b5d"
+  },
+  "ID": "A0564777-9BFF-448F-9442-6E38E1B5675D",
+  "ChiMuc": "6",
+  "MAPC": "01004000000000002000015000000000000000000050247980045000010000802513800220000600",
+  "TEN": "Điều 1.4.TT.2.6. Kinh phí hoạt động",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b5e"
+  },
+  "ID": "BEB34635-5BFA-4B4C-81DC-E9AD0E518423",
+  "ChiMuc": "7",
+  "MAPC": "01004000000000002000015000000000000000000050247980045000010000802513800220000700",
+  "TEN": "Điều 1.4.TT.2.7. Về các loại phí, lệ phí",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b5f"
+  },
+  "ID": "84EDCCAD-7C67-4A97-ACCF-15551DD04EDB",
+  "ChiMuc": "8",
+  "MAPC": "01004000000000002000015000000000000000000050247980045000010000802513800220000800",
+  "TEN": "Điều 1.4.TT.2.8. Chế độ thông tin, báo cáo",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b60"
+  },
+  "ID": "0F4E9E06-1A3D-4D0B-8350-7883F80A10C8",
+  "ChiMuc": "16",
+  "MAPC": "0100400000000000200001600000000000000000",
+  "TEN": "Điều 1.4.LQ.16. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b61"
+  },
+  "ID": "CCACBF00-3494-4DFA-A1C5-4D263C31D007",
+  "ChiMuc": "20",
+  "MAPC": "010040000000000020000160000000000000000000402148101400002000",
+  "TEN": "Điều 1.4.NĐ.1.20. Cửa khẩu và hoạt động tại cửa khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b62"
+  },
+  "ID": "7D49E1D8-68B8-45E2-B0A0-5EE9CCC95B8C",
+  "ChiMuc": "4",
+  "MAPC": "010040000000000020000160000000000000000000402623700770000400",
+  "TEN": "Điều 1.4.NĐ.5.4. Tàu thuyền nhập cảnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b63"
+  },
+  "ID": "94311FA4-F47A-4EC7-80DC-970E12C6EBAD",
+  "ChiMuc": "5",
+  "MAPC": "010040000000000020000160000000000000000000402623700770000500",
+  "TEN": "Điều 1.4.NĐ.5.5. Tàu thuyền xuất cảnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b64"
+  },
+  "ID": "62C56152-C86D-4EB3-9FCC-CB03800A17B6",
+  "ChiMuc": "6",
+  "MAPC": "010040000000000020000160000000000000000000402623700770000600",
+  "TEN": "Điều 1.4.NĐ.5.6. Tàu thuyền quá cảnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b65"
+  },
+  "ID": "593EDDDD-DE93-4EDC-BA65-2CB0EC1E8384",
+  "ChiMuc": "7",
+  "MAPC": "010040000000000020000160000000000000000000402623700770000700",
+  "TEN": "Điều 1.4.NĐ.5.7. Tàu thuyền chuyển cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b66"
+  },
+  "ID": "52C981FA-2E1A-4163-9083-4DCEB0EA1850",
+  "ChiMuc": "8",
+  "MAPC": "010040000000000020000160000000000000000000402623700770000800",
+  "TEN": "Điều 1.4.NĐ.5.8. Thời điểm hoàn thành thủ tục biên phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b67"
+  },
+  "ID": "357A9133-EC77-4CCE-A4B8-FE5E0CC2975B",
+  "ChiMuc": "9",
+  "MAPC": "010040000000000020000160000000000000000000402623700770000900",
+  "TEN": "Điều 1.4.NĐ.5.9. Trách nhiệm trong thực hiện thủ tục biên phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b68"
+  },
+  "ID": "D712B0D0-CE38-4FCD-8A9D-315046995787",
+  "ChiMuc": "10",
+  "MAPC": "010040000000000020000160000000000000000000402623700770001000",
+  "TEN": "Điều 1.4.NĐ.5.10. Thực hiện thủ tục biên phòng thông qua Cổng thông tin một cửa quốc gia",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b69"
+  },
+  "ID": "54EB9024-2C55-403B-BAB1-70FB91A36FE4",
+  "ChiMuc": "4",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502575000100000400",
+  "TEN": "Điều 1.4.QĐ.2.4. Nguyên tắc thực hiện thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b6a"
+  },
+  "ID": "A75C59A5-30A9-4A81-BF94-C2E3CC0634BA",
+  "ChiMuc": "5",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502575000100000500",
+  "TEN": "Điều 1.4.QĐ.2.5. Xác nhận hoàn thành và từ chối thực hiện thủ tục biên phòng điện tử cảng biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b6b"
+  },
+  "ID": "2F46916F-5279-409A-8BEE-2F03790359A8",
+  "ChiMuc": "6",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502575000100000600",
+  "TEN": "Điều 1.4.QĐ.2.6. Nội dung thực hiện thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b6c"
+  },
+  "ID": "1FEF5FF2-6C92-417E-9818-BF0CACCC6DDC",
+  "ChiMuc": "7",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502575000100000700",
+  "TEN": "Điều 1.4.QĐ.2.7. Địa điểm, thời hạn thực hiện thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b6d"
+  },
+  "ID": "9CBF8306-8F99-450E-8C8B-8825FBE1F6D5",
+  "ChiMuc": "8",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502575000100000800",
+  "TEN": "Điều 1.4.QĐ.2.8. Trách nhiệm của các Bộ, ngành; Ủy ban nhân dân các tỉnh, thành phố; các đơn vị, tổ chức, cá nhân liên quan trong thực hiện thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b6e"
+  },
+  "ID": "D2464D3B-7F95-432F-BBEB-99CB4BF16872",
+  "ChiMuc": "4",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150000400",
+  "TEN": "Điều 1.4.QĐ.4.4. Nguyên tắc thực hiện thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b6f"
+  },
+  "ID": "F47E2293-C1D1-471B-A982-E29AB4AB86DA",
+  "ChiMuc": "5",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150000500",
+  "TEN": "Điều 1.4.QĐ.4.5. Thời gian, địa điểm thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b70"
+  },
+  "ID": "E417A7B4-08E0-49B3-A9E1-CCBAC0EAC07D",
+  "ChiMuc": "6",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150000600",
+  "TEN": "Điều 1.4.QĐ.4.6. Sử dụng chữ ký số trong thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b71"
+  },
+  "ID": "051A6719-1EF7-4A3F-B5B4-E4505F4FF1DE",
+  "ChiMuc": "7",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150000700",
+  "TEN": "Điều 1.4.QĐ.4.7. Cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b72"
+  },
+  "ID": "517CC7D9-113B-4482-A2BD-40F08F16AB31",
+  "ChiMuc": "8",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150000800",
+  "TEN": "Điều 1.4.QĐ.4.8. Hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử của người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b73"
+  },
+  "ID": "3C987A56-1FEE-41E5-A50E-34D9D22D2E54",
+  "ChiMuc": "9",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150000900",
+  "TEN": "Điều 1.4.QĐ.4.9. Thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền theo Cơ chế một cửa quốc gia",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b74"
+  },
+  "ID": "A1CE43A1-D277-4CB2-9C59-2BF1D130ADF1",
+  "ChiMuc": "10",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150001000",
+  "TEN": "Điều 1.4.QĐ.4.10. Thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền qua Cổng thông tin thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b75"
+  },
+  "ID": "36DB19C0-3CA4-43A9-9CF6-DB458F831DFF",
+  "ChiMuc": "11",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150001100",
+  "TEN": "Điều 1.4.QĐ.4.11. Sửa đổi, bổ sung hồ sơ biên phòng điện tử cửa khẩu biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b76"
+  },
+  "ID": "45B23798-F34F-4EE2-809F-ED8FBFE2C8ED",
+  "ChiMuc": "12",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150001200",
+  "TEN": "Điều 1.4.QĐ.4.12. Thực hiện thủ tục biên phòng điện tử đối với tàu biển Việt Nam hoạt động tuyến nội địa đến, rời cửa khẩu cảng qua Cổng thông tin một cửa quốc gia",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b77"
+  },
+  "ID": "F1954841-6739-4792-A3B5-50B2E1F50AA0",
+  "ChiMuc": "13",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150001300",
+  "TEN": "Điều 1.4.QĐ.4.13. Thực hiện thủ tục biên phòng điện tử đối với tàu biển Việt Nam hoạt động tuyến nội địa đến, rời cửa khẩu cảng qua Cổng thông tin thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b78"
+  },
+  "ID": "3A831ADD-EBE4-4C5F-A8EF-22A5EB948909",
+  "ChiMuc": "14",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150001400",
+  "TEN": "Điều 1.4.QĐ.4.14. Sửa đổi, bổ sung hồ sơ điện tử biên phòng đối với tàu biển Việt Nam hoạt động tuyến nội địa đến, rời cửa khẩu cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b79"
+  },
+  "ID": "D4328BB0-3F1A-4419-8F9F-BBEF0B9B1B1A",
+  "ChiMuc": "15",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150001500",
+  "TEN": "Điều 1.4.QĐ.4.15. Thủ tục biên phòng điện tử trong cấp thị thực tại cửa khẩu trên Cổng thông tin một cửa quốc gia",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b7a"
+  },
+  "ID": "00782A94-11C0-4E1E-85BC-F9B009D989D9",
+  "ChiMuc": "16",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150001600",
+  "TEN": "Điều 1.4.QĐ.4.16. Thực hiện thủ tục biên phòng điện tử trong cấp thị thực tại cửa khẩu qua Cổng thông tin thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b7b"
+  },
+  "ID": "8D51181A-B0D4-42B7-9CB8-251873281B82",
+  "ChiMuc": "17",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150001700",
+  "TEN": "Điều 1.4.QĐ.4.17. Sửa đổi, bổ sung hồ sơ biên phòng điện tử đối với người nhận thị thực tại cửa khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b7c"
+  },
+  "ID": "442B22F7-F561-487B-ACCF-4B0E8D908012",
+  "ChiMuc": "18",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150001800",
+  "TEN": "Điều 1.4.QĐ.4.18. Trách nhiệm của Bộ Quốc phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b7d"
+  },
+  "ID": "623B38BC-23D0-4D46-BED7-DBB8B7020319",
+  "ChiMuc": "19",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000502687000150001900",
+  "TEN": "Điều 1.4.QĐ.4.19. Trách nhiệm của các bộ, ngành liên quan và Ủy ban nhân dân cấp tỉnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b7e"
+  },
+  "ID": "36F8DFAA-5856-42A2-B409-5EA4F96D4454",
+  "ChiMuc": "3",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495000300",
+  "TEN": "Điều 1.4.TT.6.3. Địa chỉ truy cập Cổng thông tin và các biểu mẫu trong hồ sơ biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b7f"
+  },
+  "ID": "DAD24E13-54BD-40EE-8D69-A9B00EFFE4FD",
+  "ChiMuc": "4",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495000400",
+  "TEN": "Điều 1.4.TT.6.4. Sử dụng chữ ký điện tử trong thực hiện thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b80"
+  },
+  "ID": "84AED620-1E2A-4747-A685-CE9A7800F687",
+  "ChiMuc": "5",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495000500",
+  "TEN": "Điều 1.4.TT.6.5. Cấp tài khoản truy cập Cổng thông tin; tạm dừng hoạt động, hủy tài khoản truy cập Cổng thông tin đối với người làm thủ tục",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b81"
+  },
+  "ID": "FA4F6A91-B19C-45BE-B2F9-E100F5D8F736",
+  "ChiMuc": "6",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495000600",
+  "TEN": "Điều 1.4.TT.6.6. Nội dung, cơ chế kết nối giữa Cổng thông tin và Cổng thông tin một cửa quốc gia",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b82"
+  },
+  "ID": "09AD92B5-9F4D-4EF8-9324-8807E829C3C2",
+  "ChiMuc": "7",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495000700",
+  "TEN": "Điều 1.4.TT.6.7. Thực hiện thủ tục biên phòng điện tử qua Cổng thông tin một cửa quốc gia",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b83"
+  },
+  "ID": "CA602AE8-4184-4EAF-8195-4860BC67153D",
+  "ChiMuc": "8",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495000800",
+  "TEN": "Điều 1.4.TT.6.8. Các trường hợp thực hiện thủ tục biên phòng điện tử qua Cổng thông tin",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b84"
+  },
+  "ID": "D5013E28-24C1-4211-B9C3-99869026544C",
+  "ChiMuc": "9",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495000900",
+  "TEN": "Điều 1.4.TT.6.9. Thời gian bắt đầu thực hiện và thời điểm hoàn thành thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b85"
+  },
+  "ID": "E549A0D3-96EC-49FB-88D1-9013AF94AAED",
+  "ChiMuc": "10",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495001000",
+  "TEN": "Điều 1.4.TT.6.10. Biểu mẫu khai báo hồ sơ điện tử; biểu mẫu xác nhận hoàn thành thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b86"
+  },
+  "ID": "BD63265A-8E6C-418F-9C3F-4E8714706B75",
+  "ChiMuc": "11",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495001100",
+  "TEN": "Điều 1.4.TT.6.11. Thực hiện thủ tục biên phòng điện tử đối với tàu thuyền chuyển cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b87"
+  },
+  "ID": "0E2B1937-B414-4343-BD2E-C3BA93DA1873",
+  "ChiMuc": "12",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495001200",
+  "TEN": "Điều 1.4.TT.6.12. Thực hiện thủ tục biên phòng điện tử đối với tàu chở khách du lịch quốc tế",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b88"
+  },
+  "ID": "ECB66B26-320A-4D03-992F-2AA46AFEB813",
+  "ChiMuc": "13",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495001300",
+  "TEN": "Điều 1.4.TT.6.13. Thực hiện thủ tục biên phòng điện tử đối với tàu thuyền nhập cảnh, xuất cảnh tại cảng dầu khí ngoài khơi và vùng nước ngoài vùng nước cảng biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b89"
+  },
+  "ID": "48D4C63F-234A-499E-AFE2-0AAE2F2C8781",
+  "ChiMuc": "14",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495001400",
+  "TEN": "Điều 1.4.TT.6.14. Thực hiện thủ tục biên phòng trong trường hợp Cổng thông tin có sự cố",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b8a"
+  },
+  "ID": "DA461B7A-AE84-455F-B9B1-976D18883626",
+  "ChiMuc": "15",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495001500",
+  "TEN": "Điều 1.4.TT.6.15. Sửa chữa, bổ sung hồ sơ điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b8b"
+  },
+  "ID": "C8897BE2-E338-43C3-BE30-AAB3C35AB98C",
+  "ChiMuc": "16",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495001600",
+  "TEN": "Điều 1.4.TT.6.16. Hủy hồ sơ điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b8c"
+  },
+  "ID": "3FCFAE27-8CEB-46AB-9107-7BEAC1777F69",
+  "ChiMuc": "17",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495001700",
+  "TEN": "Điều 1.4.TT.6.17. Từ chối thực hiện thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b8d"
+  },
+  "ID": "129585DD-252E-4664-8792-D73FFDBCE310",
+  "ChiMuc": "18",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495001800",
+  "TEN": "Điều 1.4.TT.6.18. Đối tượng kiểm tra biên phòng trong và sau khi thực hiện thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b8e"
+  },
+  "ID": "64C15D6C-F11B-4C4A-AED5-25F976084882",
+  "ChiMuc": "19",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495001900",
+  "TEN": "Điều 1.4.TT.6.19. Hình thức kiểm tra biên phòng trong và sau khi thực hiện thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b8f"
+  },
+  "ID": "BD9C95D9-F841-4559-96E4-0C29C2CC8CE9",
+  "ChiMuc": "20",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495002000",
+  "TEN": "Điều 1.4.TT.6.20. Trách nhiệm quản lý, khai thác, sử dụng và đảm bảo an toàn thông tin mạng liên quan đến thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b90"
+  },
+  "ID": "5E92D5E7-22EA-459F-B39A-3F7A63BA7116",
+  "ChiMuc": "21",
+  "MAPC": "01004000000000002000016000000000000000000040262370077000100000802612000495002100",
+  "TEN": "Điều 1.4.TT.6.21. Trách nhiệm trong thực hiện thủ tục biên phòng điện tử; phối hợp thực hiện thủ tục biên phòng điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b91"
+  },
+  "ID": "7A703842-3B82-4C65-82F3-ADC78762E7E8",
+  "ChiMuc": "11",
+  "MAPC": "010040000000000020000160000000000000000000402623700770001100",
+  "TEN": "Điều 1.4.NĐ.5.11. Đối tượng áp dụng thủ tục biên phòng theo cách thức điện tử",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b92"
+  },
+  "ID": "B3B4E21A-600C-46AD-8FCC-A6797A5303EC",
+  "ChiMuc": "12",
+  "MAPC": "010040000000000020000160000000000000000000402623700770001200",
+  "TEN": "Điều 1.4.NĐ.5.12. Đối tượng áp dụng thủ tục biên phòng theo cách thức thủ công",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b93"
+  },
+  "ID": "3CC96127-A393-4B48-B7EE-AFB93FBB2033",
+  "ChiMuc": "13",
+  "MAPC": "010040000000000020000160000000000000000000402623700770001300",
+  "TEN": "Điều 1.4.NĐ.5.13. Thủ tục biên phòng theo cách thức thủ công đối với tàu thuyền nhập cảnh, xuất cảnh, quá cảnh",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b94"
+  },
+  "ID": "25F51C7D-214D-4024-B3B5-093B6CBC05E7",
+  "ChiMuc": "14",
+  "MAPC": "010040000000000020000160000000000000000000402623700770001400",
+  "TEN": "Điều 1.4.NĐ.5.14. Thủ tục biên phòng theo cách thức thủ công đối với tàu thuyền chuyển cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b95"
+  },
+  "ID": "A41AD488-8680-49EB-8972-847CE47E9660",
+  "ChiMuc": "15",
+  "MAPC": "010040000000000020000160000000000000000000402623700770001500",
+  "TEN": "Điều 1.4.NĐ.5.15. Thủ tục biên phòng theo cách thức thủ công đối với tàu thuyền, thuyền viên, hành khách đi trên tàu chở khách du lịch quốc tế",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b96"
+  },
+  "ID": "82F0B480-79B2-4AD1-817F-B90868A3BC88",
+  "ChiMuc": "16",
+  "MAPC": "010040000000000020000160000000000000000000402623700770001600",
+  "TEN": "Điều 1.4.NĐ.5.16. Thủ tục biên phòng theo cách thức thủ công đối với tàu thuyền buồm, tàu thuyền thể thao, du thuyền và người đi trên tàu thuyền buồm, tàu thuyền thể thao, du thuyền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b97"
+  },
+  "ID": "8CBA3D62-4C18-43C9-81C6-1AAEC75E48F7",
+  "ChiMuc": "17",
+  "MAPC": "010040000000000020000160000000000000000000402623700770001700",
+  "TEN": "Điều 1.4.NĐ.5.17. Thủ tục biên phòng đối với tàu cá Việt Nam, thuyền viên, hành khách đi trên tàu cá Việt Nam đi khai thác thủy sản ở vùng biển ngoài vùng biển Việt Nam",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b98"
+  },
+  "ID": "40A33A8E-F336-4C20-A22F-1228288F91F2",
+  "ChiMuc": "18",
+  "MAPC": "010040000000000020000160000000000000000000402623700770001800",
+  "TEN": "Điều 1.4.NĐ.5.18. Đối tượng kiểm tra, giám sát biên phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b99"
+  },
+  "ID": "5E6E94A8-28E4-4606-875A-176EDC0C83EE",
+  "ChiMuc": "19",
+  "MAPC": "010040000000000020000160000000000000000000402623700770001900",
+  "TEN": "Điều 1.4.NĐ.5.19. Nội dung kiểm tra, giám sát biên phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b9a"
+  },
+  "ID": "8E6B105E-75A8-4EBF-9B79-82B8598FA8E0",
+  "ChiMuc": "20",
+  "MAPC": "010040000000000020000160000000000000000000402623700770002000",
+  "TEN": "Điều 1.4.NĐ.5.20. Biện pháp kiểm tra, giám sát biên phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b9b"
+  },
+  "ID": "E5B6BB72-29F6-4C74-A154-5F3656DC561C",
+  "ChiMuc": "21",
+  "MAPC": "010040000000000020000160000000000000000000402623700770002100",
+  "TEN": "Điều 1.4.NĐ.5.21. Các loại giấy phép do Biên phòng cửa khẩu cảng cấp",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b9c"
+  },
+  "ID": "341AF7BD-E21C-49AB-A453-9E47D01FCAB0",
+  "ChiMuc": "22",
+  "MAPC": "010040000000000020000160000000000000000000402623700770002200",
+  "TEN": "Điều 1.4.NĐ.5.22. Cấp thị thực",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b9d"
+  },
+  "ID": "3E55DC13-EC2F-4551-8BDA-CAF1C9639E4E",
+  "ChiMuc": "23",
+  "MAPC": "010040000000000020000160000000000000000000402623700770002300",
+  "TEN": "Điều 1.4.NĐ.5.23. Cấp Giấy phép đi bờ của thuyền viên",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b9e"
+  },
+  "ID": "62E501ED-CD97-4530-9E9A-1E5710BF4BF1",
+  "ChiMuc": "24",
+  "MAPC": "010040000000000020000160000000000000000000402623700770002400",
+  "TEN": "Điều 1.4.NĐ.5.24. Cấp Giấy phép xuống tàu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6b9f"
+  },
+  "ID": "3056895A-3763-40E3-81CA-8D44E3982818",
+  "ChiMuc": "25",
+  "MAPC": "010040000000000020000160000000000000000000402623700770002500",
+  "TEN": "Điều 1.4.NĐ.5.25. Cấp Giấy phép cho người Việt Nam và người nước ngoài xuống tàu thuyền nước ngoài, người nước ngoài xuống tàu thuyền Việt Nam neo đậu tại cảng; người điều khiển phương tiện Việt Nam, phương tiện nước ngoài cập mạn tàu thuyền nước ngoài; thuyền viên nước ngoài nghỉ qua đêm trên bờ hoặc xuống các tàu thuyền khác đang neo đậu tại cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6ba0"
+  },
+  "ID": "D97064D4-5C0B-4B61-B2CB-185547C7774B",
+  "ChiMuc": "26",
+  "MAPC": "010040000000000020000160000000000000000000402623700770002600",
+  "TEN": "Điều 1.4.NĐ.5.26. Người Việt Nam, người nước ngoài hoạt động tại cửa khẩu cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6ba1"
+  },
+  "ID": "0EE26208-0BBD-4CA4-A03F-2F766CB53959",
+  "ChiMuc": "27",
+  "MAPC": "010040000000000020000160000000000000000000402623700770002700",
+  "TEN": "Điều 1.4.NĐ.5.27. Thuyền viên, hành khách trên tàu thuyền chưa làm thủ tục nhập cảnh, chuyển cảng đến phải đưa đi cấp cứu tại các cơ sở y tế của Việt Nam",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6ba2"
+  },
+  "ID": "C66573A1-A541-4F1D-8B48-B9BEE295AED6",
+  "ChiMuc": "28",
+  "MAPC": "010040000000000020000160000000000000000000402623700770002800",
+  "TEN": "Điều 1.4.NĐ.5.28. Thuyền viên, hành khách nước ngoài không đủ điều kiện nhập cảnh theo quy định của pháp luật Việt Nam phải đi cấp cứu tại các cơ sở y tế của Việt Nam",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6ba3"
+  },
+  "ID": "85B1668D-C3A3-4C8B-A128-100A5B6D2B29",
+  "ChiMuc": "29",
+  "MAPC": "010040000000000020000160000000000000000000402623700770002900",
+  "TEN": "Điều 1.4.NĐ.5.29. Thuyền viên nước ngoài đi bờ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6ba4"
+  },
+  "ID": "421961C8-1371-40E2-87F3-AF4F5F71C63B",
+  "ChiMuc": "30",
+  "MAPC": "010040000000000020000160000000000000000000402623700770003000",
+  "TEN": "Điều 1.4.NĐ.5.30. Tàu thuyền và các loại phương tiện khác hoạt động tại cửa khẩu cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6ba5"
+  },
+  "ID": "87D1AF26-F2B0-4B39-8F30-DB7B2568C78B",
+  "ChiMuc": "31",
+  "MAPC": "010040000000000020000160000000000000000000402623700770003100",
+  "TEN": "Điều 1.4.NĐ.5.31. Tàu biển Việt Nam hoạt động tuyến nội địa và phương tiện thủy nội địa đến, rời cửa khẩu cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6ba6"
+  },
+  "ID": "B9850153-C589-4104-B08E-1A5605BF7C3D",
+  "ChiMuc": "32",
+  "MAPC": "010040000000000020000160000000000000000000402623700770003200",
+  "TEN": "Điều 1.4.NĐ.5.32. Từ chối, tạm hoãn nhập cảnh, xuất cảnh, quá cảnh đối với tàu thuyền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6ba7"
+  },
+  "ID": "7F31F7D1-1230-47FE-8F64-5D2939557EEC",
+  "ChiMuc": "33",
+  "MAPC": "010040000000000020000160000000000000000000402623700770003300",
+  "TEN": "Điều 1.4.NĐ.5.33. Chưa cho nhập cảnh, tạm hoãn xuất cảnh đối với thuyền viên, hành khách qua cửa khẩu cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6ba8"
+  },
+  "ID": "83010131-D353-4FA2-B467-1D3EDB9144F0",
+  "ChiMuc": "34",
+  "MAPC": "010040000000000020000160000000000000000000402623700770003400",
+  "TEN": "Điều 1.4.NĐ.5.34. Bộ Quốc phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6ba9"
+  },
+  "ID": "863AF304-29CB-401D-89B8-08DE7B08F66E",
+  "ChiMuc": "35",
+  "MAPC": "010040000000000020000160000000000000000000402623700770003500",
+  "TEN": "Điều 1.4.NĐ.5.35. Các bộ, ngành liên quan",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6baa"
+  },
+  "ID": "D7054025-DCAD-4948-BB1C-5FE4432FC08D",
+  "ChiMuc": "36",
+  "MAPC": "010040000000000020000160000000000000000000402623700770003600",
+  "TEN": "Điều 1.4.NĐ.5.36. Ủy ban nhân dân cấp tỉnh nơi có cửa khẩu cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bab"
+  },
+  "ID": "378CF73A-3FA3-4187-909B-6059310E88D2",
+  "ChiMuc": "37",
+  "MAPC": "010040000000000020000160000000000000000000402623700770003700",
+  "TEN": "Điều 1.4.NĐ.5.37. Trách nhiệm phối hợp trong hoạt động quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bac"
+  },
+  "ID": "B161617B-C718-497F-B0E0-C845DEB7249E",
+  "ChiMuc": "38",
+  "MAPC": "010040000000000020000160000000000000000000402623700770003800",
+  "TEN": "Điều 1.4.NĐ.5.38. Xây dựng các dự án, công trình tại cửa khẩu cảng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bad"
+  },
+  "ID": "F8AB29AF-4823-49F0-85C8-FEF5DFB3EAA2",
+  "ChiMuc": "3",
+  "MAPC": "010040000000000020000160000000000000000000802447600040000300",
+  "TEN": "Điều 1.4.TT.1.3. Nguyên tắc mở chính thức, mở mới, nâng cấp cửa khẩu, đường qua lại",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bae"
+  },
+  "ID": "B088C8FA-61E3-4107-9843-DC97E78D1762",
+  "ChiMuc": "4",
+  "MAPC": "010040000000000020000160000000000000000000802447600040000400",
+  "TEN": "Điều 1.4.TT.1.4. Điều kiện mở chính thức, mở mới, nâng cấp cửa khẩu, đường qua lại",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6baf"
+  },
+  "ID": "604DF710-FA8E-4CA3-BD53-65CD73F72155",
+  "ChiMuc": "5",
+  "MAPC": "010040000000000020000160000000000000000000802447600040000500",
+  "TEN": "Điều 1.4.TT.1.5. Trình tự, thủ tục mở chính thức, mở mới, nâng cấp cửa khẩu, đường qua lại",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bb0"
+  },
+  "ID": "47AC8B1C-0A9A-40A0-B719-8AD8126BB3F3",
+  "ChiMuc": "17",
+  "MAPC": "0100400000000000200001700000000000000000",
+  "TEN": "Điều 1.4.LQ.17. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bb1"
+  },
+  "ID": "286819FB-F065-42ED-ABAE-6F2A6F27F31C",
+  "ChiMuc": "6",
+  "MAPC": "010040000000000020000170000000000000000000402528201120000600",
+  "TEN": "Điều 1.4.NĐ.3.6. Trách nhiệm của cơ quan quản lý nhà nước chuyên ngành tại cửa khẩu biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bb2"
+  },
+  "ID": "AFA684CA-09EE-4729-9DC4-9CC32F6ED5DF",
+  "ChiMuc": "9",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000060000802572100095000900",
+  "TEN": "Điều 1.4.TT.4.9. Trách nhiệm chủ trì, phối hợp kiểm tra, kiểm soát, giám sát biên phòng tại cửa khẩu, lối mở biên giới đất liền quy định tại Khoản 1 Điều 6 và Khoản 5 Điều 13 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bb3"
+  },
+  "ID": "AC32FC57-52C1-4C74-929D-D1DB2CFE7DCF",
+  "ChiMuc": "10",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000060000802572100095001000",
+  "TEN": "Điều 1.4.TT.4.10. Trách nhiệm chủ trì kiểm tra, kiểm soát, giám sát, hướng dẫn, thực hiện thủ tục cho người xuất cảnh, nhập cảnh, ra, vào, hoạt động, lưu trú trong khu vực cửa khẩu, lối mở biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bb4"
+  },
+  "ID": "4842DE65-347F-47DC-9AB8-10C5ED054D7B",
+  "ChiMuc": "11",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000060000802572100095001100",
+  "TEN": "Điều 1.4.TT.4.11. Trách nhiệm chủ trì kiểm tra, kiểm soát, giám sát, hướng dẫn phương tiện xuất cảnh, nhập cảnh, ra vào, hoạt động, lưu trú trong khu vực cửa khẩu, lối mở biên giới đất liền quy định tại Điểm b Khoản 1 Điều 6 và Khoản 5 Điều 13 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bb5"
+  },
+  "ID": "2DA96C6D-4E31-4628-9D95-A8486A326090",
+  "ChiMuc": "12",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000060000802572100095001200",
+  "TEN": "Điều 1.4.TT.4.12. Trách nhiệm phối hợp kiểm tra, giám sát hàng hóa xuất, nhập qua cửa khẩu, lối mở biên giới đất liền quy định tại Điểm c Khoản 1 Điều 6 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bb6"
+  },
+  "ID": "40324BAF-03A5-400C-A09A-684DAE812BBF",
+  "ChiMuc": "14",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000060000802572100095001400",
+  "TEN": "Điều 1.4.TT.4.14. Trách nhiệm xử lý vi phạm tại cửa khẩu, lối mở biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bb7"
+  },
+  "ID": "DC31706C-0074-4C29-BC6C-1F1ACD456C8E",
+  "ChiMuc": "18",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000060000802572100095001800",
+  "TEN": "Điều 1.4.TT.4.18. Bộ Tư lệnh Bộ đội Biên phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bb8"
+  },
+  "ID": "86FFF2F6-7DC6-49D8-9C96-88DB09D4EF40",
+  "ChiMuc": "19",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000060000802572100095001900",
+  "TEN": "Điều 1.4.TT.4.19. Cục Kế hoạch và Đầu tư/BQP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bb9"
+  },
+  "ID": "F280B59E-B0E8-41B1-A077-2BE0F507C8ED",
+  "ChiMuc": "20",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000060000802572100095002000",
+  "TEN": "Điều 1.4.TT.4.20. Cục Tài chính/BQP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bba"
+  },
+  "ID": "717F2169-8FF3-467C-BB04-37F02A9FA4F2",
+  "ChiMuc": "21",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000060000802572100095002100",
+  "TEN": "Điều 1.4.TT.4.21. Ủy ban nhân dân tỉnh có cửa khẩu, lối mở biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bbb"
+  },
+  "ID": "8FA5AAAA-A81E-4A99-86B9-E9005E9F32B9",
+  "ChiMuc": "12",
+  "MAPC": "010040000000000020000170000000000000000000402528201120001200",
+  "TEN": "Điều 1.4.NĐ.3.12. Thẩm quyền xác định phạm vi khu vực cửa khẩu; lối mở biên giới; lối thông quan, đường chuyên dụng vận chuyển hàng hóa và quy hoạch xây dựng khu vực cửa khẩu, lối mở biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bbc"
+  },
+  "ID": "3B798E93-A176-4129-A3B0-9F1C986B38FA",
+  "ChiMuc": "15",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000120000802572100095001500",
+  "TEN": "Điều 1.4.TT.4.15. Nguyên tắc, trình tự xác định phạm vi khu vực cửa khẩu biên giới đất liền quy định tại Khoản 4 Điều 3 và Điều 12 của Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bbd"
+  },
+  "ID": "BB4F52C0-75F4-47FA-B354-0743537285A0",
+  "ChiMuc": "14",
+  "MAPC": "010040000000000020000170000000000000000000402528201120001400",
+  "TEN": "Điều 1.4.NĐ.3.14. Dây chuyền kiểm tra, kiểm soát của các cơ quan quản lý nhà nước chuyên ngành tại cửa khẩu quốc tế, cửa khẩu chính (cửa khẩu song phương)",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bbe"
+  },
+  "ID": "AE538242-69CD-496E-8D7E-94A8D0D2BE2E",
+  "ChiMuc": "7",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000140000802572100095000700",
+  "TEN": "Điều 1.4.TT.4.7. Dây chuyền kiểm soát tại cửa khẩu biên giới đất liền trong trường hợp xảy ra dịch bệnh quy định tại Khoản 2 Điều 14 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bbf"
+  },
+  "ID": "9F6D972E-D134-400C-942E-CE4DC83A6528",
+  "ChiMuc": "15",
+  "MAPC": "010040000000000020000170000000000000000000402528201120001500",
+  "TEN": "Điều 1.4.NĐ.3.15. Kiểm tra, kiểm soát, giám sát tại cửa khẩu phụ, lối mở biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bc0"
+  },
+  "ID": "F7464E81-3FCB-41F8-8EAA-F470641559FC",
+  "ChiMuc": "16",
+  "MAPC": "010040000000000020000170000000000000000000402528201120001600",
+  "TEN": "Điều 1.4.NĐ.3.16. Thời gian làm việc tại cửa khẩu biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bc1"
+  },
+  "ID": "902AC704-7B2A-4540-A3A8-AC772847FE98",
+  "ChiMuc": "16",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000160000802572100095001600",
+  "TEN": "Điều 1.4.TT.4.16. Trình tự, thủ tục thay đổi thời gian làm việc tại cửa khẩu, lối mở biên giới; mở cửa khẩu, lối mở biên giới ngoài thời gian làm việc trong ngày quy định tại Điều 16 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bc2"
+  },
+  "ID": "2B2E1F53-7F30-4D15-AD72-08CF3C235B80",
+  "ChiMuc": "17",
+  "MAPC": "010040000000000020000170000000000000000000402528201120001700",
+  "TEN": "Điều 1.4.NĐ.3.17. Thực hiện hạn chế hoặc tạm dừng các hoạt động qua lại biên giới tại cửa khẩu; lối mở biên giới; lối thông quan, đường chuyên dụng vận chuyển hàng hóa",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bc3"
+  },
+  "ID": "D29F92E4-1AF9-454B-BA72-E1065CB58174",
+  "ChiMuc": "17",
+  "MAPC": "01004000000000002000017000000000000000000040252820112000170000802572100095001700",
+  "TEN": "Điều 1.4.TT.4.17. Thực hiện hạn chế hoặc tạm dừng các hoạt động qua lại biên giới tại cửa khẩu, lối mở biên giới đất liền quy định tại Điều 17 Nghị định số 112/2014/NĐ-CP",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bc4"
+  },
+  "ID": "32F5E0B2-A2BE-4EAA-ABBB-EA12238C5687",
+  "ChiMuc": "18",
+  "MAPC": "0100400000000000200001800000000000000000",
+  "TEN": "Điều 1.4.LQ.18. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bc5"
+  },
+  "ID": "5EE889AB-EC75-4EDB-AE85-229C679352D9",
+  "ChiMuc": "8",
+  "MAPC": "010040000000000020000180000000000000000000402556800710000800",
+  "TEN": "Điều 1.4.NĐ.4.8. Tàu thuyền nước ngoài hoạt động trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bc6"
+  },
+  "ID": "ACB5CF95-A8BD-4019-AE61-7733D8863EE9",
+  "ChiMuc": "19",
+  "MAPC": "0100400000000000200001900000000000000000",
+  "TEN": "Điều 1.4.LQ.19. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bc7"
+  },
+  "ID": "05E42B8A-3F86-471F-B5CC-6A2C74A7DD87",
+  "ChiMuc": "20",
+  "MAPC": "0100400000000000200002000000000000000000",
+  "TEN": "Điều 1.4.LQ.20. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bc8"
+  },
+  "ID": "571A0394-A1AF-42AA-9081-F3BA237CFAFB",
+  "ChiMuc": "21",
+  "MAPC": "0100400000000000200002100000000000000000",
+  "TEN": "Điều 1.4.LQ.21. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bc9"
+  },
+  "ID": "86AA89DB-F603-41CB-A8EF-C2ACAFF89181",
+  "ChiMuc": "22",
+  "MAPC": "0100400000000000200002200000000000000000",
+  "TEN": "Điều 1.4.LQ.22. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bca"
+  },
+  "ID": "AD1952B7-7C69-4326-A68F-65CA0C5FA324",
+  "ChiMuc": "23",
+  "MAPC": "0100400000000000200002300000000000000000",
+  "TEN": "Điều 1.4.LQ.23. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bcb"
+  },
+  "ID": "39674997-DE4B-40D0-8E8A-3211CA68F500",
+  "ChiMuc": "8",
+  "MAPC": "010040000000000020000230000000000000000000402507600340000800",
+  "TEN": "Điều 1.4.NĐ.2.8. Xây dựng các dự án, công trình trong khu vực biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bcc"
+  },
+  "ID": "B4A696D7-9B5A-40B3-BAF6-C280B3FBC66B",
+  "ChiMuc": "11",
+  "MAPC": "010040000000000020000230000000000000000000402556800710001100",
+  "TEN": "Điều 1.4.NĐ.4.11. Xây dựng các dự án, công trình trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bcd"
+  },
+  "ID": "EFA1D5D9-9849-4629-AAEA-09EB364554DB",
+  "ChiMuc": "9",
+  "MAPC": "01004000000000002000023000000000000000000040255680071000110000802598201620000900",
+  "TEN": "Điều 1.4.TT.5.9. Hoạt động khảo sát, thiết kế, thi công, xây dựng các dự án, công trình liên quan đến quốc phòng an ninh hoặc có yếu tố nước ngoài trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bce"
+  },
+  "ID": "C15074DD-7374-45F8-A3AB-44D010A8E5A4",
+  "ChiMuc": "7",
+  "MAPC": "010040000000000020000230000000000000000000802547000435000700",
+  "TEN": "Điều 1.4.TT.3.7. Xây dựng các dự án, công trình trong khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bcf"
+  },
+  "ID": "FBCDCAAA-6CAE-48AE-B7A1-B7D1C1956443",
+  "ChiMuc": "24",
+  "MAPC": "0100400000000000200002400000000000000000",
+  "TEN": "Điều 1.4.LQ.24. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bd0"
+  },
+  "ID": "85646AAD-57F8-4A2A-A8C6-07D897BCC9A8",
+  "ChiMuc": "5",
+  "MAPC": "010040000000000020000240000000000000000000402507600340000500",
+  "TEN": "Điều 1.4.NĐ.2.5. Cư trú ở khu vực biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bd1"
+  },
+  "ID": "487DB497-909E-476E-9B7E-9A7D8C659FB5",
+  "ChiMuc": "6",
+  "MAPC": "010040000000000020000240000000000000000000402507600340000600",
+  "TEN": "Điều 1.4.NĐ.2.6. Đi vào khu vực biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bd2"
+  },
+  "ID": "78CA7A2B-B90D-4DEC-AA05-60539EECF020",
+  "ChiMuc": "2",
+  "MAPC": "01004000000000002000024000000000000000000040250760034000060000802547000435000200",
+  "TEN": "Điều 1.4.TT.3.2. Khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bd3"
+  },
+  "ID": "5034452B-4F0E-4E97-8C65-ACEC9C698EDF",
+  "ChiMuc": "3",
+  "MAPC": "01004000000000002000024000000000000000000040250760034000060000802547000435000300",
+  "TEN": "Điều 1.4.TT.3.3. Vành đai biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bd4"
+  },
+  "ID": "42AC0BA5-2D5D-41E3-9C44-B32B42A5F2FA",
+  "ChiMuc": "4",
+  "MAPC": "01004000000000002000024000000000000000000040250760034000060000802547000435000400",
+  "TEN": "Điều 1.4.TT.3.4. Vùng cấm",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bd5"
+  },
+  "ID": "01FCC393-7127-49EA-99D9-BF589540E58C",
+  "ChiMuc": "5",
+  "MAPC": "01004000000000002000024000000000000000000040250760034000060000802547000435000500",
+  "TEN": "Điều 1.4.TT.3.5. Mẫu biển báo và vị trí cắm các loại biển báo",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bd6"
+  },
+  "ID": "207A5C23-83A8-4332-BBAA-8CBC105EF19B",
+  "ChiMuc": "6",
+  "MAPC": "01004000000000002000024000000000000000000040250760034000060000802547000435000600",
+  "TEN": "Điều 1.4.TT.3.6. Đi vào khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bd7"
+  },
+  "ID": "DB6DDA01-5DF7-45CB-A69B-8CD8FC2BE014",
+  "ChiMuc": "8",
+  "MAPC": "01004000000000002000024000000000000000000040250760034000060000802547000435000800",
+  "TEN": "Điều 1.4.TT.3.8. Tạm dừng các hoạt động trong khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bd8"
+  },
+  "ID": "7CB12916-571C-4C40-8FBC-6E57F0316115",
+  "ChiMuc": "9",
+  "MAPC": "01004000000000002000024000000000000000000040250760034000060000802547000435000900",
+  "TEN": "Điều 1.4.TT.3.9. Trách nhiệm của Bộ Tư lệnh Bộ đội Biên phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bd9"
+  },
+  "ID": "5846B3A9-28D3-4CC5-ABCC-C1C8D368D741",
+  "ChiMuc": "10",
+  "MAPC": "01004000000000002000024000000000000000000040250760034000060000802547000435001000",
+  "TEN": "Điều 1.4.TT.3.10. Trách nhiệm của Ủy ban nhân dân tỉnh biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bda"
+  },
+  "ID": "319DCB69-3DD3-4399-868A-408A99E57C3B",
+  "ChiMuc": "7",
+  "MAPC": "010040000000000020000240000000000000000000402507600340000700",
+  "TEN": "Điều 1.4.NĐ.2.7. Hoạt động của người, phương tiện trong khu vực biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bdb"
+  },
+  "ID": "9B472D4E-9C6C-47E1-8C24-810034D599B2",
+  "ChiMuc": "9",
+  "MAPC": "010040000000000020000240000000000000000000402507600340000900",
+  "TEN": "Điều 1.4.NĐ.2.9. Biển báo trong khu vực biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bdc"
+  },
+  "ID": "7C63F32A-96EA-4EA5-B91C-68D2C8779230",
+  "ChiMuc": "10",
+  "MAPC": "010040000000000020000240000000000000000000402507600340001000",
+  "TEN": "Điều 1.4.NĐ.2.10. Tạm dừng các hoạt động trong khu vực biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bdd"
+  },
+  "ID": "28D6522B-DF52-448A-A672-71FA30BF1CE7",
+  "ChiMuc": "11",
+  "MAPC": "010040000000000020000240000000000000000000402507600340001100",
+  "TEN": "Điều 1.4.NĐ.2.11. Quản lý hoạt động trong vành đai biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bde"
+  },
+  "ID": "1ED570A9-1E4E-4E5C-8C14-EA084ECAE0F7",
+  "ChiMuc": "12",
+  "MAPC": "010040000000000020000240000000000000000000402507600340001200",
+  "TEN": "Điều 1.4.NĐ.2.12. Quản lý hoạt động trong vùng cấm",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bdf"
+  },
+  "ID": "5D859849-F3FE-468C-8055-2305E3740978",
+  "ChiMuc": "13",
+  "MAPC": "010040000000000020000240000000000000000000402507600340001300",
+  "TEN": "Điều 1.4.NĐ.2.13. Bộ Quốc phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6be0"
+  },
+  "ID": "6258AF68-88BB-41E2-B891-AF488688AABE",
+  "ChiMuc": "14",
+  "MAPC": "010040000000000020000240000000000000000000402507600340001400",
+  "TEN": "Điều 1.4.NĐ.2.14. Bộ Công an",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6be1"
+  },
+  "ID": "AD83DD1D-69B6-45C7-84F0-0733B84E5226",
+  "ChiMuc": "15",
+  "MAPC": "010040000000000020000240000000000000000000402507600340001500",
+  "TEN": "Điều 1.4.NĐ.2.15. Bộ Ngoại giao",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6be2"
+  },
+  "ID": "26BC708E-CBA4-444A-A8BD-975DCB9F6C3E",
+  "ChiMuc": "16",
+  "MAPC": "010040000000000020000240000000000000000000402507600340001600",
+  "TEN": "Điều 1.4.NĐ.2.16. Bộ Kế hoạch và Đầu tư",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6be3"
+  },
+  "ID": "EF950DF2-F743-46B0-9205-14D555FE4490",
+  "ChiMuc": "17",
+  "MAPC": "010040000000000020000240000000000000000000402507600340001700",
+  "TEN": "Điều 1.4.NĐ.2.17. Bộ Tài chính",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6be4"
+  },
+  "ID": "26D90B29-0E95-4EC3-85E5-670E4E1AFA60",
+  "ChiMuc": "18",
+  "MAPC": "010040000000000020000240000000000000000000402507600340001800",
+  "TEN": "Điều 1.4.NĐ.2.18. Bộ Công Thương",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6be5"
+  },
+  "ID": "5FD8B8A1-D52D-43CD-819D-64E6BA2F909C",
+  "ChiMuc": "19",
+  "MAPC": "010040000000000020000240000000000000000000402507600340001900",
+  "TEN": "Điều 1.4.NĐ.2.19. Các Bộ, ngành liên quan",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6be6"
+  },
+  "ID": "5BC1CB62-15FA-4D3A-9160-54FD89BD5845",
+  "ChiMuc": "20",
+  "MAPC": "010040000000000020000240000000000000000000402507600340002000",
+  "TEN": "Điều 1.4.NĐ.2.20. Ủy ban nhân dân các cấp nơi có biên giới trên đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6be7"
+  },
+  "ID": "28B80A46-09E0-415D-886F-8AC0A1B0F7C1",
+  "ChiMuc": "21",
+  "MAPC": "010040000000000020000240000000000000000000402507600340002100",
+  "TEN": "Điều 1.4.NĐ.2.21. Cơ quan, tổ chức khác",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6be8"
+  },
+  "ID": "FC735618-4FC5-40AD-83D1-C75C78398316",
+  "ChiMuc": "5",
+  "MAPC": "010040000000000020000240000000000000000000402556800710000500",
+  "TEN": "Điều 1.4.NĐ.4.5. Biển báo trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6be9"
+  },
+  "ID": "A6B18ED6-F705-4E60-9730-73B03556F0A8",
+  "ChiMuc": "4",
+  "MAPC": "01004000000000002000024000000000000000000040255680071000050000802598201620000400",
+  "TEN": "Điều 1.4.TT.5.4. Mẫu biển báo và vị trí cắm",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bea"
+  },
+  "ID": "D835CD20-F39A-4ADA-9BA4-8AA591B26999",
+  "ChiMuc": "9",
+  "MAPC": "010040000000000020000240000000000000000000402556800710000900",
+  "TEN": "Điều 1.4.NĐ.4.9. Hoạt động diễn tập quân sự, diễn tập tìm kiếm, cứu nạn, diễn tập an ninh hàng hải, tổ chức bắn đạn thật hoặc sử dụng vật liệu nổ trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6beb"
+  },
+  "ID": "0B1FEBF1-68ED-41FB-B880-A0ACBD697601",
+  "ChiMuc": "7",
+  "MAPC": "01004000000000002000024000000000000000000040255680071000090000802598201620000700",
+  "TEN": "Điều 1.4.TT.5.7. Hoạt động diễn tập quân sự; diễn tập tìm kiếm, cứu nạn; diễn tập an ninh hàng hải; tổ chức bắn đạn thật hoặc sử dụng vật liệu nổ trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bec"
+  },
+  "ID": "2E969DA9-115F-4FBF-9E3F-A97CF6F35E37",
+  "ChiMuc": "10",
+  "MAPC": "010040000000000020000240000000000000000000402556800710001000",
+  "TEN": "Điều 1.4.NĐ.4.10. Hoạt động thăm dò, nghiên cứu khoa học, khảo sát về địa chất, khoáng sản, tài nguyên, nguồn lợi thủy sản, hải sản trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bed"
+  },
+  "ID": "BF1E30CC-7F96-44CA-837E-2BAFD70B2B4F",
+  "ChiMuc": "8",
+  "MAPC": "01004000000000002000024000000000000000000040255680071000100000802598201620000800",
+  "TEN": "Điều 1.4.TT.5.8. Hoạt động thăm dò, nghiên cứu khoa học, khảo sát địa chất, khoáng sản, tài nguyên, nguồn lợi thủy sản, hải sản trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bee"
+  },
+  "ID": "C102CC36-0231-449C-A34C-1FAD2848E6CC",
+  "ChiMuc": "12",
+  "MAPC": "010040000000000020000240000000000000000000402556800710001200",
+  "TEN": "Điều 1.4.NĐ.4.12. Thiết lập vùng cấm tạm thời, vùng hạn chế hoạt động ở lãnh hải; xác định vùng cấm, khu vực hạn chế hoạt động trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bef"
+  },
+  "ID": "55DE5254-35A6-456F-99EF-5C3C588FF9A1",
+  "ChiMuc": "10",
+  "MAPC": "01004000000000002000024000000000000000000040255680071000120000802598201620001000",
+  "TEN": "Điều 1.4.TT.5.10. Vùng cấm tạm thời, vùng hạn chế hoạt động trong lãnh hải; vùng cấm, khu vực hạn chế hoạt động trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bf0"
+  },
+  "ID": "2571ED31-7147-4134-85D9-AB8FF88670EC",
+  "ChiMuc": "13",
+  "MAPC": "010040000000000020000240000000000000000000402556800710001300",
+  "TEN": "Điều 1.4.NĐ.4.13. Quản lý bến, bãi, khu vực neo đậu cho phương tiện đường thủy trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bf1"
+  },
+  "ID": "0A8B3B6B-8CE4-478D-8C52-35747251AC06",
+  "ChiMuc": "14",
+  "MAPC": "010040000000000020000240000000000000000000402556800710001400",
+  "TEN": "Điều 1.4.NĐ.4.14. Trường hợp xảy ra thiên tai, hỏa hoạn, thảm họa môi trường",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bf2"
+  },
+  "ID": "B6CC78B1-74B2-420D-B43B-F0D137E6F265",
+  "ChiMuc": "15",
+  "MAPC": "010040000000000020000240000000000000000000402556800710001500",
+  "TEN": "Điều 1.4.NĐ.4.15. Xử lý vi phạm pháp luật trong khu vực biên giới biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bf3"
+  },
+  "ID": "3F0D726E-A647-401E-B689-40E8FCE3BA92",
+  "ChiMuc": "16",
+  "MAPC": "010040000000000020000240000000000000000000402556800710001600",
+  "TEN": "Điều 1.4.NĐ.4.16. Thực hiện quyền truy đuổi",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bf4"
+  },
+  "ID": "0B1875BF-B886-4820-B328-5879088984EB",
+  "ChiMuc": "17",
+  "MAPC": "010040000000000020000240000000000000000000402556800710001700",
+  "TEN": "Điều 1.4.NĐ.4.17. Bộ Quốc phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bf5"
+  },
+  "ID": "B104339B-DD8C-4064-8420-273403542B99",
+  "ChiMuc": "11",
+  "MAPC": "01004000000000002000024000000000000000000040255680071000170000802598201620001100",
+  "TEN": "Điều 1.4.TT.5.11. Trách nhiệm của Bộ Tư lệnh Bộ đội Biên phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bf6"
+  },
+  "ID": "06484820-C583-4E65-A388-87C9B19FA385",
+  "ChiMuc": "12",
+  "MAPC": "01004000000000002000024000000000000000000040255680071000170000802598201620001200",
+  "TEN": "Điều 1.4.TT.5.12. Trách nhiệm của Bộ Tư lệnh Quân chủng Hải quân, Bộ Tư lệnh Cảnh sát biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bf7"
+  },
+  "ID": "B8DA036F-6DA4-423D-BAFA-3E23FE2BDAAB",
+  "ChiMuc": "18",
+  "MAPC": "010040000000000020000240000000000000000000402556800710001800",
+  "TEN": "Điều 1.4.NĐ.4.18. Bộ Công an",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bf8"
+  },
+  "ID": "26B9D469-1A62-4C64-83A0-6ECAA088C00F",
+  "ChiMuc": "19",
+  "MAPC": "010040000000000020000240000000000000000000402556800710001900",
+  "TEN": "Điều 1.4.NĐ.4.19. Bộ Ngoại giao",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bf9"
+  },
+  "ID": "D0DB5A98-2FFC-40A3-A683-63FCAE3992FA",
+  "ChiMuc": "20",
+  "MAPC": "010040000000000020000240000000000000000000402556800710002000",
+  "TEN": "Điều 1.4.NĐ.4.20. Bộ Kế hoạch và Đầu tư",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bfa"
+  },
+  "ID": "0031CD91-E6D6-4FEA-863F-12E5476DE01A",
+  "ChiMuc": "21",
+  "MAPC": "010040000000000020000240000000000000000000402556800710002100",
+  "TEN": "Điều 1.4.NĐ.4.21. Bộ Tài chính",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bfb"
+  },
+  "ID": "21E4C81B-9812-49CC-8A9B-3B812A181A55",
+  "ChiMuc": "22",
+  "MAPC": "010040000000000020000240000000000000000000402556800710002200",
+  "TEN": "Điều 1.4.NĐ.4.22. Bộ Nông nghiệp và Phát triển nông thôn",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bfc"
+  },
+  "ID": "1BF07637-807A-4C9A-BFB5-E292EB5BC06F",
+  "ChiMuc": "23",
+  "MAPC": "010040000000000020000240000000000000000000402556800710002300",
+  "TEN": "Điều 1.4.NĐ.4.23. Bộ Giao thông vận tải",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bfd"
+  },
+  "ID": "04DF2102-EF9D-4BE1-B72B-843A57BBCD3B",
+  "ChiMuc": "24",
+  "MAPC": "010040000000000020000240000000000000000000402556800710002400",
+  "TEN": "Điều 1.4.NĐ.4.24. Bộ Tài nguyên và Môi trường",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bfe"
+  },
+  "ID": "1C7E1DCF-579C-440B-BDDB-B9F6D187CF85",
+  "ChiMuc": "25",
+  "MAPC": "010040000000000020000240000000000000000000402556800710002500",
+  "TEN": "Điều 1.4.NĐ.4.25. Các Bộ, ngành liên quan",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6bff"
+  },
+  "ID": "F9DAD763-ACD0-4C41-98FE-6C985426A0D9",
+  "ChiMuc": "26",
+  "MAPC": "010040000000000020000240000000000000000000402556800710002600",
+  "TEN": "Điều 1.4.NĐ.4.26. Ủy ban nhân dân các cấp ven biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c00"
+  },
+  "ID": "542EA3BF-7B3D-495E-BCED-0F1A4F1D303B",
+  "ChiMuc": "13",
+  "MAPC": "01004000000000002000024000000000000000000040255680071000260000802598201620001300",
+  "TEN": "Điều 1.4.TT.5.13. Trách nhiệm của Ủy ban nhân dân cấp tỉnh ven biển",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c01"
+  },
+  "ID": "B6C3B867-ACCA-4DC0-A557-5FFCBD68CCA4",
+  "ChiMuc": "27",
+  "MAPC": "010040000000000020000240000000000000000000402556800710002700",
+  "TEN": "Điều 1.4.NĐ.4.27. Các cơ quan, tổ chức và cá nhân",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c02"
+  },
+  "ID": "2A7C5903-E636-40AE-B54B-82E49C2AB18B",
+  "ChiMuc": "III",
+  "MAPC": "01004000000000003000",
+  "TEN": "Chương III XÂY DỰNG, QUẢN LÝ, BẢO VỆ BIÊN GIỚI QUỐC GIA, KHU VỰC BIÊN GIỚI",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c03"
+  },
+  "ID": "96779E51-B8A8-42CE-97B3-615440540118",
+  "ChiMuc": "25",
+  "MAPC": "0100400000000000300002500000000000000000",
+  "TEN": "Điều 1.4.LQ.25. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c04"
+  },
+  "ID": "72BCF1E1-E086-44E1-BFED-F8E2AF4AED4B",
+  "ChiMuc": "18",
+  "MAPC": "010040000000000030000250000000000000000000402528201120001800",
+  "TEN": "Điều 1.4.NĐ.3.18. Quy hoạch cửa khẩu",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c05"
+  },
+  "ID": "210BD623-4E2C-4065-91AC-00C232952A99",
+  "ChiMuc": "19",
+  "MAPC": "010040000000000030000250000000000000000000402528201120001900",
+  "TEN": "Điều 1.4.NĐ.3.19. Nguyên tắc, thẩm quyền mở, nâng cấp cửa khẩu biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c06"
+  },
+  "ID": "EE483ACD-58E9-4BA3-AFC4-96167BEB477C",
+  "ChiMuc": "20",
+  "MAPC": "010040000000000030000250000000000000000000402528201120002000",
+  "TEN": "Điều 1.4.NĐ.3.20. Trình tự mở, nâng cấp cửa khẩu biên giới; lối mở biên giới; lối thông quan, đường chuyên dụng vận chuyển hàng hóa",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c07"
+  },
+  "ID": "861ABFED-C575-44A3-B148-CE5B515CD920",
+  "ChiMuc": "21",
+  "MAPC": "010040000000000030000250000000000000000000402528201120002100",
+  "TEN": "Điều 1.4.NĐ.3.21. Nội dung quản lý nhà nước đối với cửa khẩu biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c08"
+  },
+  "ID": "EEBE52FA-9C7C-477F-8110-AEE8051DAEE1",
+  "ChiMuc": "22",
+  "MAPC": "010040000000000030000250000000000000000000402528201120002200",
+  "TEN": "Điều 1.4.NĐ.3.22. Trách nhiệm của Bộ Quốc phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c09"
+  },
+  "ID": "4626E3E3-031B-449C-B3F5-5975647E28BD",
+  "ChiMuc": "23",
+  "MAPC": "010040000000000030000250000000000000000000402528201120002300",
+  "TEN": "Điều 1.4.NĐ.3.23. Trách nhiệm của Bộ Tài chính",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c0a"
+  },
+  "ID": "FBAD5EFB-8EF7-43C1-ACDA-2C0B2660491A",
+  "ChiMuc": "24",
+  "MAPC": "010040000000000030000250000000000000000000402528201120002400",
+  "TEN": "Điều 1.4.NĐ.3.24. Trách nhiệm của Bộ Y tế",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c0b"
+  },
+  "ID": "584A149B-995B-4ED0-800F-5858EE442BF1",
+  "ChiMuc": "25",
+  "MAPC": "010040000000000030000250000000000000000000402528201120002500",
+  "TEN": "Điều 1.4.NĐ.3.25. Trách nhiệm của Bộ Nông nghiệp và Phát triển nông thôn",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c0c"
+  },
+  "ID": "E7E19769-1172-450D-B728-6D893FDF7DAB",
+  "ChiMuc": "26",
+  "MAPC": "010040000000000030000250000000000000000000402528201120002600",
+  "TEN": "Điều 1.4.NĐ.3.26. Trách nhiệm của các Bộ, ngành liên quan",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c0d"
+  },
+  "ID": "477E8725-3066-46B2-9F9B-CCA2314B0041",
+  "ChiMuc": "27",
+  "MAPC": "010040000000000030000250000000000000000000402528201120002700",
+  "TEN": "Điều 1.4.NĐ.3.27. Trách nhiệm của Ủy ban nhân dân các tỉnh có cửa khẩu biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c0e"
+  },
+  "ID": "A6103BD7-E943-4BD6-8E26-8EF18CBCCCC0",
+  "ChiMuc": "26",
+  "MAPC": "0100400000000000300002600000000000000000",
+  "TEN": "Điều 1.4.LQ.26. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c0f"
+  },
+  "ID": "34413586-292B-4CD6-8E74-55862F7AA65B",
+  "ChiMuc": "27",
+  "MAPC": "0100400000000000300002700000000000000000",
+  "TEN": "Điều 1.4.LQ.27. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c10"
+  },
+  "ID": "80A846E9-FA23-40D3-8471-CA9A1941A4EB",
+  "ChiMuc": "9",
+  "MAPC": "010040000000000030000270000000000000000000402148101400000900",
+  "TEN": "Điều 1.4.NĐ.1.9. Xây dựng công trình biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c11"
+  },
+  "ID": "74237D6E-A221-49F6-8FDE-AE673B0E2E82",
+  "ChiMuc": "28",
+  "MAPC": "0100400000000000300002800000000000000000",
+  "TEN": "Điều 1.4.LQ.28. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c12"
+  },
+  "ID": "3C46D078-16F2-4032-AF46-847423D713F3",
+  "ChiMuc": "11",
+  "MAPC": "010040000000000030000280000000000000000000402148101400001100",
+  "TEN": "Điều 1.4.NĐ.1.11. Đầu tư phát triển kinh tế - xã hội ở khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c13"
+  },
+  "ID": "A571D82F-07CC-4108-A0AF-6AE36B1475FD",
+  "ChiMuc": "12",
+  "MAPC": "010040000000000030000280000000000000000000402148101400001200",
+  "TEN": "Điều 1.4.NĐ.1.12. Xây dựng hệ thống chính trị cơ sở ở khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c14"
+  },
+  "ID": "8E4EB822-7A4D-4960-B8ED-F91E70A0D7A4",
+  "ChiMuc": "13",
+  "MAPC": "010040000000000030000280000000000000000000402148101400001300",
+  "TEN": "Điều 1.4.NĐ.1.13. Bố trí dân cư ở khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c15"
+  },
+  "ID": "461645F8-5AF7-4D3A-A3FB-054A002FE30B",
+  "ChiMuc": "14",
+  "MAPC": "010040000000000030000280000000000000000000402148101400001400",
+  "TEN": "Điều 1.4.NĐ.1.14. Ngày Biên phòng toàn dân",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c16"
+  },
+  "ID": "3B74ECAB-A23B-4425-84A3-8430FFEF16F2",
+  "ChiMuc": "15",
+  "MAPC": "010040000000000030000280000000000000000000402148101400001500",
+  "TEN": "Điều 1.4.NĐ.1.15. Xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c17"
+  },
+  "ID": "1C807C3C-6779-403F-8297-06250669E6B4",
+  "ChiMuc": "29",
+  "MAPC": "0100400000000000300002900000000000000000",
+  "TEN": "Điều 1.4.LQ.29. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c18"
+  },
+  "ID": "63DB11DB-2DBC-42C2-B45D-9413689E79B7",
+  "ChiMuc": "10",
+  "MAPC": "010040000000000030000290000000000000000000402148101400001000",
+  "TEN": "Điều 1.4.NĐ.1.10. Mốc quốc giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c19"
+  },
+  "ID": "A60C26AE-F939-4F50-823A-0B6B555E0152",
+  "ChiMuc": "30",
+  "MAPC": "0100400000000000300003000000000000000000",
+  "TEN": "Điều 1.4.LQ.30. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c1a"
+  },
+  "ID": "CA891697-4F44-40C8-8FC6-237ADC09CF8C",
+  "ChiMuc": "31",
+  "MAPC": "0100400000000000300003100000000000000000",
+  "TEN": "Điều 1.4.LQ.31. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c1b"
+  },
+  "ID": "CD9BDE79-F260-4D12-9719-3B032C4C80CD",
+  "ChiMuc": "16",
+  "MAPC": "010040000000000030000310000000000000000000402148101400001600",
+  "TEN": "Điều 1.4.NĐ.1.16. Xây dựng lực lượng nòng cốt, chuyên trách quản lý, bảo vệ biên giới quốc gia",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c1c"
+  },
+  "ID": "79D4AFCD-5C87-4072-A429-3A4BE825E83A",
+  "ChiMuc": "17",
+  "MAPC": "010040000000000030000310000000000000000000402148101400001700",
+  "TEN": "Điều 1.4.NĐ.1.17. Quản lý, bảo vệ biên giới quốc gia và khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c1d"
+  },
+  "ID": "0EB38DA1-5331-4565-A421-2FE991DE9435",
+  "ChiMuc": "19",
+  "MAPC": "010040000000000030000310000000000000000000402148101400001900",
+  "TEN": "Điều 1.4.NĐ.1.19. Trách nhiệm quản lý, bảo vệ biên giới quốc gia và khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c1e"
+  },
+  "ID": "339522FF-1D9B-4E90-A4FF-81BFF612A88E",
+  "ChiMuc": "32",
+  "MAPC": "0100400000000000300003200000000000000000",
+  "TEN": "Điều 1.4.LQ.32. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c1f"
+  },
+  "ID": "3D8BDF24-748F-4681-80C6-4B41720D0D11",
+  "ChiMuc": "33",
+  "MAPC": "0100400000000000300003300000000000000000",
+  "TEN": "Điều 1.4.LQ.33. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c20"
+  },
+  "ID": "C89B0C73-05E0-4FA4-B0C3-9BE3409DCEFE",
+  "ChiMuc": "22",
+  "MAPC": "010040000000000030000330000000000000000000402148101400002200",
+  "TEN": "Điều 1.4.NĐ.1.22. Chế độ, chính sách bảo đảm xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c21"
+  },
+  "ID": "8DF45464-AFC5-46F6-9D9A-4D6E540EA193",
+  "ChiMuc": "34",
+  "MAPC": "0100400000000000300003400000000000000000",
+  "TEN": "Điều 1.4.LQ.34. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c22"
+  },
+  "ID": "A73E6B85-42B7-45C3-9493-48B2E6CCECD1",
+  "ChiMuc": "23",
+  "MAPC": "010040000000000030000340000000000000000000402148101400002300",
+  "TEN": "Điều 1.4.NĐ.1.23. Nguồn tài chính bảo đảm cho việc xây dựng, quản lý, bảo vệ biên giới quốc gia và khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c23"
+  },
+  "ID": "255FB02D-F4FD-4517-926F-F15045570A91",
+  "ChiMuc": "24",
+  "MAPC": "010040000000000030000340000000000000000000402148101400002400",
+  "TEN": "Điều 1.4.NĐ.1.24. Phân cấp nhiệm vụ chi ngân sách về xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c24"
+  },
+  "ID": "63F029FE-D853-4892-87F2-1FC5765C751B",
+  "ChiMuc": "25",
+  "MAPC": "010040000000000030000340000000000000000000402148101400002500",
+  "TEN": "Điều 1.4.NĐ.1.25. Lập dự toán và quyết toán ngân sách xây dựng, quản lý, bảo vệ biên giới quốc gia, khu vực biên giới",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c25"
+  },
+  "ID": "4A4BD64B-C4AF-4C03-863B-B4AF65F377F4",
+  "ChiMuc": "IV",
+  "MAPC": "01004000000000004000",
+  "TEN": "Chương IV QUẢN LÝ NHÀ NƯỚC VỀ BIÊN GIỚI QUỐC GIA",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c26"
+  },
+  "ID": "40C9A4E8-4093-4D88-A5B3-C9FC3AEC7379",
+  "ChiMuc": "35",
+  "MAPC": "0100400000000000400003500000000000000000",
+  "TEN": "Điều 1.4.LQ.35. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c27"
+  },
+  "ID": "36BF8100-52C8-46C4-A8A2-8BACF2533110",
+  "ChiMuc": "36",
+  "MAPC": "0100400000000000400003600000000000000000",
+  "TEN": "Điều 1.4.LQ.36. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c28"
+  },
+  "ID": "76DC16D0-79EE-4E0B-8716-02A5E4834F6D",
+  "ChiMuc": "26",
+  "MAPC": "010040000000000040000360000000000000000000402148101400002600",
+  "TEN": "Điều 1.4.NĐ.1.26. Trách nhiệm của Bộ Quốc phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c29"
+  },
+  "ID": "F1CCC495-4DD9-4206-80E1-AEC72C5F3470",
+  "ChiMuc": "27",
+  "MAPC": "010040000000000040000360000000000000000000402148101400002700",
+  "TEN": "Điều 1.4.NĐ.1.27. Trách nhiệm của Bộ Ngoại giao",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c2a"
+  },
+  "ID": "5BECFD09-0B0A-4596-ABF6-FDBD98136439",
+  "ChiMuc": "28",
+  "MAPC": "010040000000000040000360000000000000000000402148101400002800",
+  "TEN": "Điều 1.4.NĐ.1.28. Trách nhiệm của Bộ Công an",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c2b"
+  },
+  "ID": "B8B93FFB-0ADA-4948-9124-C7FEF4840907",
+  "ChiMuc": "29",
+  "MAPC": "010040000000000040000360000000000000000000402148101400002900",
+  "TEN": "Điều 1.4.NĐ.1.29. Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c2c"
+  },
+  "ID": "70D99BA4-0639-4CD3-B391-BB6A9A77C62E",
+  "ChiMuc": "30",
+  "MAPC": "010040000000000040000360000000000000000000402148101400003000",
+  "TEN": "Điều 1.4.NĐ.1.30. Trách nhiệm của Bộ đội biên phòng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c2d"
+  },
+  "ID": "58A879E4-583D-4C7F-9AD8-EEE0DAE5F148",
+  "ChiMuc": "1",
+  "MAPC": "010040000000000040000360000000000000000000502683200100000100",
+  "TEN": "Điều 1.4.QĐ.3.1. Vị trí và chức năng",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c2e"
+  },
+  "ID": "2D771123-FBC2-40F4-B536-D9F6A4F5E325",
+  "ChiMuc": "2",
+  "MAPC": "010040000000000040000360000000000000000000502683200100000200",
+  "TEN": "Điều 1.4.QĐ.3.2. Nhiệm vụ và quyền hạn",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c2f"
+  },
+  "ID": "0F815C74-951C-4891-9856-9EB66CDFAE45",
+  "ChiMuc": "3",
+  "MAPC": "010040000000000040000360000000000000000000502683200100000300",
+  "TEN": "Điều 1.4.QĐ.3.3. Cơ cấu tổ chức",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c30"
+  },
+  "ID": "53CA89F6-A1CB-4637-872A-60C58E1DDDC3",
+  "ChiMuc": "4",
+  "MAPC": "010040000000000040000360000000000000000000502683200100000400",
+  "TEN": "Điều 1.4.QĐ.3.4. Lãnh đạo của Ủy ban",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c31"
+  },
+  "ID": "4A422B50-18F5-44E6-92E1-CE00C8D0A9DD",
+  "ChiMuc": "37",
+  "MAPC": "0100400000000000400003700000000000000000",
+  "TEN": "Điều 1.4.LQ.37. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c32"
+  },
+  "ID": "F7998C00-CE46-435D-AE8A-BDA06A0EF57D",
+  "ChiMuc": "31",
+  "MAPC": "010040000000000040000370000000000000000000402148101400003100",
+  "TEN": "Điều 1.4.NĐ.1.31. Trách nhiệm của Uỷ ban nhân dân các cấp nơi có biên giới quốc gia",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c33"
+  },
+  "ID": "07A5D7B5-4566-4CD0-9C1A-3C50258AB830",
+  "ChiMuc": "32",
+  "MAPC": "0100400000000000400003740214810140000320",
+  "TEN": "Điều 1.4.NĐ.1.32. Trách nhiệm của công dân",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c34"
+  },
+  "ID": "4B558B2C-41B1-4262-86CE-F95BD46D0170",
+  "ChiMuc": "V",
+  "MAPC": "01004000000000005000",
+  "TEN": "Chương V KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c35"
+  },
+  "ID": "F0AD7421-1F9D-4125-9C58-A1B63845DE01",
+  "ChiMuc": "38",
+  "MAPC": "0100400000000000500003800000000000000000",
+  "TEN": "Điều 1.4.LQ.38. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c36"
+  },
+  "ID": "98CBCE57-BB02-4D03-8186-548EF93D6B45",
+  "ChiMuc": "39",
+  "MAPC": "0100400000000000500003900000000000000000",
+  "TEN": "Điều 1.4.LQ.39. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c37"
+  },
+  "ID": "FF8060A0-DF7E-43D6-8CC8-C58859DB522E",
+  "ChiMuc": "VI",
+  "MAPC": "01004000000000006000",
+  "TEN": "Chương VI ĐIỀU KHOẢN THI HÀNH",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c38"
+  },
+  "ID": "FA0F10E1-FA1B-457E-B714-7421056CC088",
+  "ChiMuc": "40",
+  "MAPC": "0100400000000000600004000000000000000000",
+  "TEN": "Điều 1.4.LQ.40. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c39"
+  },
+  "ID": "8D9A3179-3BE4-494C-B6FF-CF6A592ED04A",
+  "ChiMuc": "41",
+  "MAPC": "0100400000000000600004100000000000000000",
+  "TEN": "Điều 1.4.LQ.41. ",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c3a"
+  },
+  "ID": "1BDFED92-3CF3-4E8B-ADA5-A497C7C5274F",
+  "ChiMuc": "33",
+  "MAPC": "0100400000000000600004140214810140000330",
+  "TEN": "Điều 1.4.NĐ.1.33. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c3b"
+  },
+  "ID": "94A3BA60-F113-40D0-9857-A4893FD9503F",
+  "ChiMuc": "34",
+  "MAPC": "0100400000000000600004140214810140000340",
+  "TEN": "Điều 1.4.NĐ.1.34. Hướng dẫn thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c3c"
+  },
+  "ID": "755996E4-4FFD-406D-9567-F669073CD1CA",
+  "ChiMuc": "35",
+  "MAPC": "0100400000000000600004140214810140000350",
+  "TEN": "Điều 1.4.NĐ.1.35. Trách nhiệm thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c3d"
+  },
+  "ID": "2F60D3BC-D6E5-45B4-8A93-3F2014F82C9B",
+  "ChiMuc": "22",
+  "MAPC": "0100400000000000600004140250760034000220",
+  "TEN": "Điều 1.4.NĐ.2.22. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c3e"
+  },
+  "ID": "046ED69B-4102-4C11-BFA4-A64E5A5FDA07",
+  "ChiMuc": "23",
+  "MAPC": "0100400000000000600004140250760034000230",
+  "TEN": "Điều 1.4.NĐ.2.23. Ngân sách đảm bảo",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c3f"
+  },
+  "ID": "891AFED9-9AC8-4709-8087-9356B20C6F42",
+  "ChiMuc": "24",
+  "MAPC": "0100400000000000600004140250760034000240",
+  "TEN": "Điều 1.4.NĐ.2.24. Trách nhiệm hướng dẫn và thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c40"
+  },
+  "ID": "06B20D63-BE88-4B8B-9A70-4C548E9A664B",
+  "ChiMuc": "28",
+  "MAPC": "0100400000000000600004140252820112000280",
+  "TEN": "Điều 1.4.NĐ.3.28. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c41"
+  },
+  "ID": "39804B48-281B-4E23-9AFB-05F7A7BEC899",
+  "ChiMuc": "29",
+  "MAPC": "0100400000000000600004140252820112000290",
+  "TEN": "Điều 1.4.NĐ.3.29. Trách nhiệm hướng dẫn và thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c42"
+  },
+  "ID": "B9272E61-F5AC-45CE-9204-D957E5786BE3",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000600004140252820112000300",
+  "TEN": "Điều 1.4.NĐ.3.30. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c43"
+  },
+  "ID": "AC8AA350-5241-4B2B-A182-A40E4879C170",
+  "ChiMuc": "28",
+  "MAPC": "0100400000000000600004140255680071000280",
+  "TEN": "Điều 1.4.NĐ.4.28. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c44"
+  },
+  "ID": "5B40A568-D350-4C40-906C-71E1B61F269F",
+  "ChiMuc": "29",
+  "MAPC": "0100400000000000600004140255680071000290",
+  "TEN": "Điều 1.4.NĐ.4.29. Ngân sách bảo đảm",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c45"
+  },
+  "ID": "09B90E80-F875-41A7-9E1D-4AD31CEB9547",
+  "ChiMuc": "30",
+  "MAPC": "0100400000000000600004140255680071000300",
+  "TEN": "Điều 1.4.NĐ.4.30. Trách nhiệm hướng dẫn và thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c46"
+  },
+  "ID": "803A77AD-018A-4FE8-AFD1-E70933EFB6F9",
+  "ChiMuc": "39",
+  "MAPC": "0100400000000000600004140262370077000390",
+  "TEN": "Điều 1.4.NĐ.5.39. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c47"
+  },
+  "ID": "70D14EF1-7F93-4E3C-B413-2B6F6014735B",
+  "ChiMuc": "40",
+  "MAPC": "0100400000000000600004140262370077000400",
+  "TEN": "Điều 1.4.NĐ.5.40. Trách nhiệm thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c48"
+  },
+  "ID": "0AF1F023-E3E0-4BB9-BAA3-F9AC029B47DE",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000600004150247980045000020",
+  "TEN": "Điều 1.4.QĐ.1.2. Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 10 năm 2013.",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c49"
+  },
+  "ID": "2B71D36F-B33C-4137-B9DE-00C726F7BFD1",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000600004150247980045000030",
+  "TEN": "Điều 1.4.QĐ.1.3. Bộ trưởng các Bộ: Ngoại giao, Quốc phòng, Công an, Công Thương, Tài chính, Y tế, Nông nghiệp và Phát triển nông thôn và các Bộ có liên quan, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này.",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c4a"
+  },
+  "ID": "F5134F7D-5F33-4802-BCA1-C45C9AA1C34F",
+  "ChiMuc": "9",
+  "MAPC": "0100400000000000600004150257500010000090",
+  "TEN": "Điều 1.4.QĐ.2.9. Điều khoản thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c4b"
+  },
+  "ID": "4EDC4889-F045-4FE6-B7E5-D391EA4C4B33",
+  "ChiMuc": "10",
+  "MAPC": "0100400000000000600004150257500010000100",
+  "TEN": "Điều 1.4.QĐ.2.10. Trách nhiệm thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c4c"
+  },
+  "ID": "AE1E8C4F-66A1-4FBE-8F81-5479852DA377",
+  "ChiMuc": "5",
+  "MAPC": "0100400000000000600004150268320010000050",
+  "TEN": "Điều 1.4.QĐ.3.5. Hiệu lực thi hành và trách nhiệm thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c4d"
+  },
+  "ID": "3FB3BD98-5B44-4A49-9238-A17F149DCECB",
+  "ChiMuc": "20",
+  "MAPC": "0100400000000000600004150268700015000200",
+  "TEN": "Điều 1.4.QĐ.4.20. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c4e"
+  },
+  "ID": "B9FBAE51-3F39-4817-9A94-09F0495E7767",
+  "ChiMuc": "21",
+  "MAPC": "0100400000000000600004150268700015000210",
+  "TEN": "Điều 1.4.QĐ.4.21. Các giai đoạn triển khai thực hiện thủ tục biên phòng điện tử tại cửa khẩu biên giới đất liền",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c4f"
+  },
+  "ID": "B0C52F1A-39C2-471D-8824-203334C14C6A",
+  "ChiMuc": "22",
+  "MAPC": "0100400000000000600004150268700015000220",
+  "TEN": "Điều 1.4.QĐ.4.22. Trách nhiệm thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c50"
+  },
+  "ID": "C420DCAD-FB8A-4992-98A4-6FDE48C79FC1",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000600004180216450162000030",
+  "TEN": "Điều 1.4.TL.1.3. Tổ chức thực hiện",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c51"
+  },
+  "ID": "E98EA901-2568-4086-BB2B-40F2272F5E41",
+  "ChiMuc": "6",
+  "MAPC": "0100400000000000600004180244760004000060",
+  "TEN": "Điều 1.4.TT.1.6. Tổ chức thực hiện",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c52"
+  },
+  "ID": "A0955CA6-9E6E-4ED4-923A-848BE056D572",
+  "ChiMuc": "9",
+  "MAPC": "0100400000000000600004180251380022000090",
+  "TEN": "Điều 1.4.TT.2.9. Tổ chức thực hiện",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c53"
+  },
+  "ID": "0867AB50-8975-454B-994D-90A89C2C97C5",
+  "ChiMuc": "11",
+  "MAPC": "0100400000000000600004180254700043500110",
+  "TEN": "Điều 1.4.TT.3.11. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c54"
+  },
+  "ID": "D6EC964C-5D6B-4CD6-8857-108B3799DB1D",
+  "ChiMuc": "12",
+  "MAPC": "0100400000000000600004180254700043500120",
+  "TEN": "Điều 1.4.TT.3.12. Điều khoản chuyển tiếp",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c55"
+  },
+  "ID": "0E616FCE-737A-48E5-8552-61B2095C5380",
+  "ChiMuc": "13",
+  "MAPC": "0100400000000000600004180254700043500130",
+  "TEN": "Điều 1.4.TT.3.13. Trách nhiệm thực hiện",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c56"
+  },
+  "ID": "04FE775B-5DC8-4E08-82AA-3AE9683C5522",
+  "ChiMuc": "22",
+  "MAPC": "0100400000000000600004180257210009500220",
+  "TEN": "Điều 1.4.TT.4.22. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c57"
+  },
+  "ID": "4C791B33-289B-4BBC-ADB5-196BB2501AD3",
+  "ChiMuc": "23",
+  "MAPC": "0100400000000000600004180257210009500230",
+  "TEN": "Điều 1.4.TT.4.23. Tổ chức thực hiện",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c58"
+  },
+  "ID": "91F45764-21BD-4FC7-AABF-4B45BD9F369C",
+  "ChiMuc": "2",
+  "MAPC": "0100400000000000600004180257210009500240",
+  "TEN": "Điều 1.4.TT.3.4.2. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c59"
+  },
+  "ID": "4913F08A-028B-4F5D-AF9F-B71210CFA802",
+  "ChiMuc": "3",
+  "MAPC": "0100400000000000600004180257210009500250",
+  "TEN": "Điều 1.4.TT.3.4.3. Trách nhiệm thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c5a"
+  },
+  "ID": "66C90471-A9CA-48E6-BAC9-ED67F6ABD394",
+  "ChiMuc": "14",
+  "MAPC": "0100400000000000600004180259820162000140",
+  "TEN": "Điều 1.4.TT.5.14. Hiệu lực thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c5b"
+  },
+  "ID": "E5C8AEE1-3627-4270-8DA6-7D5CED8A202F",
+  "ChiMuc": "15",
+  "MAPC": "0100400000000000600004180259820162000150",
+  "TEN": "Điều 1.4.TT.5.15. Trách nhiệm thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c5c"
+  },
+  "ID": "439D7018-858F-4F06-B82B-C49854926CAA",
+  "ChiMuc": "22",
+  "MAPC": "0100400000000000600004180261200049500220",
+  "TEN": "Điều 1.4.TT.6.22. Trách nhiệm thi hành",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+},
+{
+  "_id": {
+    "$oid": "656cb372ac51aed6490b6c5d"
+  },
+  "ID": "B537AE90-58BE-45C5-A410-E2D6FB960B15",
+  "ChiMuc": "23",
+  "MAPC": "0100400000000000600004180261200049500230",
+  "TEN": "Điều 1.4.TT.6.23. Quy định chuyển tiếp",
+  "ChuDeID": "c3b69131-2931-4f67-926e-b244e18e8081",
+  "DeMucID": "8b06986b-89cf-4a8d-8a2f-e14ff9e3123e"
+}]
