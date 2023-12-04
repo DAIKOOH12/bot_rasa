@@ -16,7 +16,6 @@ jobs:
         uses: RasaHQ/rasa-train-test-gha@main
         with:
           data_validate: true # Kiểm tra lỗi của file data và domain
-          rasa_train: true # chạy rasa train
           rasa_test: true # chạy rasa test
           test_args: --fail-on-prediction-errors # báo lỗi pipeline khi project xảy ra lỗi
           test_type: all # Run both 'core' and 'nlu' tests
