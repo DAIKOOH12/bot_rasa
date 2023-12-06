@@ -132,69 +132,69 @@ nlu:
 - intent: hoi_nd_luat
   examples: |
     - cho tôi nội dung luật [nhập qua cửa khẩu biên giới](ten_luat)
-    - [nhập qua cửa khẩu biên giới](ten_luat)
-    - nội dung [hoạt động ở khu vực cửa khẩu](ten_luat)
+    - Cho tôi hỏi nội dung của luật về [nhập qua cửa khẩu biên giới](ten_luat)
+    - nội dung luật về [hoạt động ở khu vực cửa khẩu](ten_luat)
     - nội dung của [kiểm soát và bảo đảm an ninh, trật tự tại cửa khẩu](ten_luat)
-    - [hàng hóa, vật phẩm xuất khẩu, nhập khẩu](ten_luat)
-    - [Kiểm soát và bảo đảm an ninh, trật tự tại cửa khẩu](ten_luat)
+    - Nội dung điều luật về [hàng hóa, vật phẩm xuất khẩu, nhập khẩu](ten_luat)
+    - Cho tôi xem luật [Kiểm soát và bảo đảm an ninh, trật tự tại cửa khẩu](ten_luat)
     - Cho tôi nội dung của luật [nhập qua cửa khẩu biên giới](ten_luat)
     - Nội dung [kiểm soát và bảo đảm an ninh, trật tự tại cửa khẩu](ten_luat)
     - Tìm hiểu về [hàng hóa, vật phẩm xuất khẩu, nhập khẩu](ten_luat)
     - Có gì mới về [quy định nhập cảnh](ten_luat)
     - [Xác định tính chất cửa khẩu biên giới đất liền](ten_luat)
-    - [trách nhiệm kiểm tra,  kiểmsoát, giám sát biên phòng tại lối mở biên giới thực hiện chính sách thương mại biên giới](ten_luat)
-    - [Nguyên tắc xuất, nhập qua cửa khẩu biên giới](ten_luat)
-    - [Người xuất cảnh, nhập cảnh](ten_luat)
-    - [Giấy tờ của người xuất cảnh, nhập cảnh qua cửa khẩu, lối mở biên giới đất liền](ten_luat)
-    - [Phương tiện xuất cảnh, nhập cảnh](ten_luat)
-    - [Hàng hóa, vật phẩm xuất khẩu, nhập khẩu](ten_luat)
-    - [Khu vực cửa khẩu](ten_luat)
-    - [Mẫu các loại biển báo, biển chỉ dẫn, bảng niêm yết tại khu vực cửa khẩu biên giới đất liền](ten_luat)
-    - [Hệ thống Ba-ri-e kiểm soát tại cửa khẩu biên giới đất liền](ten_luat)
-    - [Hoạt động ở khu vực cửa khẩu](ten_luat)
-    - [Người, phương tiện Việt Nam hoạt động trong khu vực biên giới biển](ten_luat)
-    - [Ban Quản lý cửa khẩu và Trưởng cửa khẩu](ten_luat)
-    - [Văn phòng Ban Quản lý cửa khẩu](ten_luat)
-    - [Nội quy cửa khẩu])(ten_luat)
-    - [Kinh phí hoạt động](ten_luat)
-    - [Về các loại phí, lệ phí](ten_luat)
-    - [Chế độ thông tin, báo cáo](ten_luat)
-    - [Cửa khẩu và hoạt động tại cửa khẩu](ten_luat)
-    - [Tàu thuyền nhập cảnh](ten_luat)
-    - [Tàu thuyền xuất cảnh](ten_luat)
-    - [Tàu thuyền quá cảnh](ten_luat)
-    - [Tàu thuyền chuyển cảng](ten_luat)
-    - [Thời điểm hoàn thành thủ tục biên phòng](ten_luat)
-    - [Trách nhiệm trong thực hiện thủ tục biên phòng](ten_luat)
-    - [Thực hiện thủ tục biên phòng thông qua Cổng thông tin một cửa quốc gia](ten_luat)
-    - [Nguyên tắc thực hiện thủ tục biên phòng điện tử](ten_luat)
-    - [Xác nhận hoàn thành và từ chối thực hiện thủ tục biên phòng điện tử cảng biển](ten_luat)
+    - Cho tôi hỏi về [trách nhiệm kiểm tra,  kiểmsoát, giám sát biên phòng tại lối mở biên giới thực hiện chính sách thương mại biên giới](ten_luat) trong pháp luật
+    - [Nguyên tắc xuất, nhập qua cửa khẩu biên giới](ten_luat) như thế nào
+    - [Người xuất cảnh, nhập cảnh](ten_luat) được  quy định như thế nào
+    - Quy định pháp luật về [Giấy tờ của người xuất cảnh, nhập cảnh qua cửa khẩu, lối mở biên giới đất liền](ten_luat)
+    - Cho tôi hỏi luật lien quan tới [Phương tiện xuất cảnh, nhập cảnh](ten_luat)
+    - [Hàng hóa, vật phẩm xuất khẩu, nhập khẩu](ten_luat) được quy định như thế nào
+    - Luật về [Khu vực cửa khẩu](ten_luat)
+    - Cho tôi xem [Mẫu các loại biển báo, biển chỉ dẫn, bảng niêm yết tại khu vực cửa khẩu biên giới đất liền](ten_luat)
+    - Cho tôi hỏi về [Hệ thống Ba-ri-e kiểm soát tại cửa khẩu biên giới đất liền](ten_luat)
+    - [Hoạt động ở khu vực cửa khẩu](ten_luat) như thế nào
+    - [Người, phương tiện Việt Nam hoạt động trong khu vực biên giới biển](ten_luat) được quy định như thế nào
+    - Quy định về [Ban Quản lý cửa khẩu và Trưởng cửa khẩu](ten_luat)
+    - [Văn phòng Ban Quản lý cửa khẩu](ten_luat) được quy định như thế nào
+    - [Nội quy cửa khẩu])(ten_luat) như thế nào
+    - Quy định về [Kinh phí hoạt động](ten_luat)
+    - [Về các loại phí, lệ phí](ten_luat) như thế nào
+    - Cho tôi hỏi về [Chế độ thông tin, báo cáo](ten_luat)
+    - Quy định về [Cửa khẩu và hoạt động tại cửa khẩu](ten_luat)
+    - [Tàu thuyền nhập cảnh](ten_luat) được quy định như thế nào
+    - Quy định về [Tàu thuyền xuất cảnh](ten_luat)
+    - Điều luật liên quan đến [Tàu thuyền quá cảnh](ten_luat)
+    - [Tàu thuyền chuyển cảng](ten_luat) được quy định như thế nào
+    - [Thời điểm hoàn thành thủ tục biên phòng](ten_luat) như thế nào
+    - [Trách nhiệm trong thực hiện thủ tục biên phòng](ten_luat) là gì
+    - [Thực hiện thủ tục biên phòng thông qua Cổng thông tin một cửa quốc gia](ten_luat) như thế nào
+    - Nội dung về [Nguyên tắc thực hiện thủ tục biên phòng điện tử](ten_luat)
+    - [Xác nhận hoàn thành và từ chối thực hiện thủ tục biên phòng điện tử cảng biển](ten_luat) như thế nào
     - [Nội dung thực hiện thủ tục biên phòng điện tử](ten_luat)
-    - [Địa điểm, thời hạn thực hiện thủ tục biên phòng điện tử](ten_luat)
-    - [Trách nhiệm của các Bộ, ngành; Ủy ban nhân dân các tỉnh, thành phố; các đơn vị, tổ chức, cá nhân liên quan trong thực hiện thủ tục biên phòng điện tử](ten_luat)
-    - [Nguyên tắc thực hiện thủ tục biên phòng điện tử](ten_luat)
-    - [Thời gian, địa điểm thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền](ten_luat)
-    - [Sử dụng chữ ký số trong thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền](ten_luat)
-    - [Cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền](ten_luat)
-    - [Hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử của người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền](ten_luat)
-    - [Thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền theo Cơ chế một cửa quốc gia](ten_luat)
-    - [Thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền qua Cổng thông tin thủ tục biên phòng điện tử](ten_luat)
-    - [Sửa đổi, bổ sung hồ sơ biên phòng điện tử cửa khẩu biên giới đất liền](ten_luat)
+    - Cho tôi xem luật về [Địa điểm, thời hạn thực hiện thủ tục biên phòng điện tử](ten_luat)
+    - Cho tôi xem [Trách nhiệm của các Bộ, ngành; Ủy ban nhân dân các tỉnh, thành phố; các đơn vị, tổ chức, cá nhân liên quan trong thực hiện thủ tục biên phòng điện tử](ten_luat)
+    - Cho tôi xem [Nguyên tắc thực hiện thủ tục biên phòng điện tử](ten_luat)
+    - [Thời gian, địa điểm thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền](ten_luat) như thế nào
+    - Luật về [Sử dụng chữ ký số trong thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền](ten_luat)
+    - Luật liên quan đến [Cấp tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử cho người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền](ten_luat)
+    - [Hủy tài khoản truy cập Cổng thông tin thủ tục biên phòng điện tử của người làm thủ tục biên phòng điện tử cửa khẩu biên giới đất liền](ten_luat) được quy định như thế nào
+    - Cho tôi xem luật về [Thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền theo Cơ chế một cửa quốc gia](ten_luat)
+    - [Thực hiện thủ tục biên phòng điện tử cửa khẩu biên giới đất liền qua Cổng thông tin thủ tục biên phòng điện tử](ten_luat) như thế nào
+    - [Sửa đổi, bổ sung hồ sơ biên phòng điện tử cửa khẩu biên giới đất liền](ten_luat) như thế nào
     - [Thực hiện thủ tục biên phòng điện tử đối với tàu biển Việt Nam hoạt động tuyến nội địa đến, rời cửa khẩu cảng qua Cổng thông tin một cửa quốc gia](ten_luat)
     - [Thực hiện thủ tục biên phòng điện tử đối với tàu biển Việt Nam hoạt động tuyến nội địa đến, rời cửa khẩu cảng qua Cổng thông tin thủ tục biên phòng điện tử](ten_luat)
-    - [Sửa đổi, bổ sung hồ sơ điện tử biên phòng đối với tàu biển Việt Nam hoạt động tuyến nội địa đến, rời cửa khẩu cảng](ten_luat)
-    - [Thủ tục biên phòng điện tử trong cấp thị thực tại cửa khẩu trên Cổng thông tin một cửa quốc gia](ten_luat)
-    - [Thực hiện thủ tục biên phòng điện tử trong cấp thị thực tại cửa khẩu qua Cổng thông tin thủ tục biên phòng điện tử](ten_luat)
-    - [Sửa đổi, bổ sung hồ sơ biên phòng điện tử đối với người nhận thị thực tại cửa khẩu](ten_luat)
-    - [Trách nhiệm của Bộ Quốc phòng](ten_luat)
-    - [Trách nhiệm của các bộ, ngành liên quan và Ủy ban nhân dân cấp tỉnh](ten_luat)
-    - [Địa chỉ truy cập Cổng thông tin và các biểu mẫu trong hồ sơ biên phòng điện tử](ten_luat)
-    - [Sử dụng chữ ký điện tử trong thực hiện thủ tục biên phòng điện tử](ten_luat)
-    - [Cấp tài khoản truy cập Cổng thông tin; tạm dừng hoạt động, hủy tài khoản truy cập Cổng thông tin đối với người làm thủ tục](ten_luat)
-    - [Nội dung, cơ chế kết nối giữa Cổng thông tin và Cổng thông tin một cửa quốc gia](ten_luat)
-    - [Thực hiện thủ tục biên phòng điện tử qua Cổng thông tin một cửa quốc gia](ten_luat)
-    - [Các trường hợp thực hiện thủ tục biên phòng điện tử qua Cổng thông tin](ten_luat)
-    - [Thời gian bắt đầu thực hiện và thời điểm hoàn thành thủ tục biên phòng điện tử](ten_luat)
+    - [Sửa đổi, bổ sung hồ sơ điện tử biên phòng đối với tàu biển Việt Nam hoạt động tuyến nội địa đến, rời cửa khẩu cảng](ten_luat) được quy định như thế nào
+    - Cho tôi xem [Thủ tục biên phòng điện tử trong cấp thị thực tại cửa khẩu trên Cổng thông tin một cửa quốc gia](ten_luat)
+    - Quy định về [Thực hiện thủ tục biên phòng điện tử trong cấp thị thực tại cửa khẩu qua Cổng thông tin thủ tục biên phòng điện tử](ten_luat)
+    - [Sửa đổi, bổ sung hồ sơ biên phòng điện tử đối với người nhận thị thực tại cửa khẩu](ten_luat) được quy định như thế nào
+    - [Trách nhiệm của Bộ Quốc phòng](ten_luat) là gì
+    - [Trách nhiệm của các bộ, ngành liên quan và Ủy ban nhân dân cấp tỉnh](ten_luat) là gì
+    - [Địa chỉ truy cập Cổng thông tin và các biểu mẫu trong hồ sơ biên phòng điện tử](ten_luat) là gì
+    - [Sử dụng chữ ký điện tử trong thực hiện thủ tục biên phòng điện tử](ten_luat) được quy định như thế nào
+    - Cho tôi xem luật về [Cấp tài khoản truy cập Cổng thông tin; tạm dừng hoạt động, hủy tài khoản truy cập Cổng thông tin đối với người làm thủ tục](ten_luat)
+    - [Nội dung, cơ chế kết nối giữa Cổng thông tin và Cổng thông tin một cửa quốc gia](ten_luat) trong văn bản pháp luật
+    - [Thực hiện thủ tục biên phòng điện tử qua Cổng thông tin một cửa quốc gia](ten_luat) được quy định như thế nào
+    - [Các trường hợp thực hiện thủ tục biên phòng điện tử qua Cổng thông tin](ten_luat) là gì
+    - Cho tôi xem [Thời gian bắt đầu thực hiện và thời điểm hoàn thành thủ tục biên phòng điện tử](ten_luat)
     - [Biểu mẫu khai báo hồ sơ điện tử; biểu mẫu xác nhận hoàn thành thủ tục biên phòng điện tử](ten_luat)
     - [Thực hiện thủ tục biên phòng điện tử đối với tàu thuyền chuyển cảng](ten_luat)
     - [Thực hiện thủ tục biên phòng điện tử đối với tàu chở khách du lịch quốc tế](ten_luat)
