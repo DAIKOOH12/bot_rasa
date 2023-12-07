@@ -88,7 +88,7 @@ git clone https://github.com/DAIKOOH12/bot_rasa.git
 
 </div>
 
-
+Để xem thông tin chi tiết sẩn phẩm truy cập tại: https://docs.google.com/document/d/14Frute7pFVsCidqv1ZAf2ZiSOM2QC9YOrWXZlm5ogns/edit?usp=sharing
 <h2 align="">License</h2>
 
 Copyright (C) 2021 Dialogue Technologies Inc.
