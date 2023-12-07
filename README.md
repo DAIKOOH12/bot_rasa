@@ -27,6 +27,9 @@ git clone https://github.com/DAIKOOH12/bot_rasa.git
   sudo systemctl start mongod
 
   ```
+  - Trong máy hiện tại của bạn nên có 1 IDE sử dụng để quản lí database trong MongoDB, ở đây tôi sẽ dùng MongoDB Compass.
+  - Kết nối đến cơ sở dữ liệu hoặc import dữ liệu từ file đã có sẵn để bắt đầu sử dụng project.
+  - Tiếp theo, khởi động IDE liên quan để sửa đổi các đoạn mã trong project (khuyến khích sử dụng Pycharms)
 - Yêu cầu:
   - Python: version >= 3.8
   - Mongodb: version >= 6.0
