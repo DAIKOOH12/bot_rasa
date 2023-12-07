@@ -30,6 +30,45 @@ git clone https://github.com/DAIKOOH12/bot_rasa.git
   - Trong máy hiện tại của bạn nên có 1 IDE sử dụng để quản lí database trong MongoDB, ở đây tôi sẽ dùng MongoDB Compass.
   - Kết nối đến cơ sở dữ liệu hoặc import dữ liệu từ file đã có sẵn để bắt đầu sử dụng project.
   - Tiếp theo, khởi động IDE liên quan để sửa đổi các đoạn mã trong project (khuyến khích sử dụng Pycharms)
+  - Tại đây ta sẽ thấy câu trúc thư mục như sau:
+    ![image](https://github.com/DAIKOOH12/bot_rasa/assets/95415495/43e36e28-9eca-42e3-8574-c93f77499fdd)
+  - file **main.py** chính là file xử lí backend của project và thư mục **bot_rasa** chính là con bot được tích hợp vào.
+  - Trước khi ta có thể gọi con bot lên giao diện thì ta cần thực hiện 1 số thao tác sau:
+      - Tại **Terminal** di chuyển đến thư mục **bot_rasa**:
+        ```bash
+        cd bot_rasa
+
+        ```
+      - Bot rasa có 1 cấu trúc vô cùng quan trọng đó là **actions**, trước khi bạn muốn con bot hiểu câu hỏi người dùng thì việc khởi chạy **actions**
+      vô cùng quan trọng.
+      - Hãy thực hiện dòng lệnh để khởi chạy **actions**:
+        ```bash
+        rasa run actions
+
+        ```
+        => Kết quả đạt được tương ứng với hình dưới đây:
+        ![image](https://github.com/DAIKOOH12/bot_rasa/assets/95415495/d8af558d-f826-4440-a9c8-0572b47824f6)
+
+      - Tiếp theo ta cần chạy con bot trên server của rasa bot.
+      - Mở 1 **Terminal** mới và thực hiện câu lệnh sau:
+        ```bash
+        rasa run --enable-api --debug
+
+        ```
+        => Kết quả đạt được tương ứng với hình ảnh dưới đây
+        ![image](https://github.com/DAIKOOH12/bot_rasa/assets/95415495/042cdee5-a971-43c4-a44a-58c4d4aa845c)
+
+      - Lúc này chúng ta đã khởi động được con bot, việc còn lại là ta cần khởi chạy api để có thể gọi con bot đó lên giao diện.
+      - Tại file main.py đang được sử dụng framework **Flask** để xây dựng backend nên bạn cần **install Flask** cho máy.
+      - Tiếp theo mở 1 **Terminal** mới (Terminal này chạy tại thư mục root), thực câu lệnh sau để chạy api trên **localhost**:
+        ```bash
+        python3 main.py
+
+        ```
+      - Sau khi thực hiện câu lệnh trên ta sẽ nhận được thông báo: Running on http://127.0.0.1:5000 . Truy cập dường dẫn đó và bạn sẽ nhận được kết quả dưới đây:
+      ![image](https://github.com/DAIKOOH12/bot_rasa/assets/95415495/d041043f-d18c-41f7-a63e-bf56f450720b)
+      - Giờ hãy thử chào hỏi, đặt câu hỏi cho con và đợi response từ nó nhé.
+
 - Yêu cầu:
   - Python: version >= 3.8
   - Mongodb: version >= 6.0
