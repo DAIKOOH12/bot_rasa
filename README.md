@@ -6,15 +6,31 @@ Xây dựng ứng dụng hỗ trợ người dùng tra cứu, hỏi đáp tri th
 3. Cho phép người dùng tìm kiếm nhanh để xem các nội dung văn bản QPPL liên quan theo các gợi ý về từng nhóm vấn đề và từ khóa chính hay được sử dụng trong hệ thống tri thức pháp luật của Việt Nam. Hỗ trợ sắp xếp, tìm kiếm các bảng, biểu mẫu được quy định trong các văn bản QPPL theo các nhóm thủ tục hành chính để người dùng có thể dễ dàng khai thác theo nhu cầu
 4. Hỗ trợ trả lời các câu hỏi của người dùng về pháp luật dựa trên việc trích rút tri thức từ các văn bản QPPL hiện đang có hiệu lực. Phần mềm phải hiển thị nguồn tham chiếu trích dẫn các điều khoản trong văn bản nhằm trả lời cho câu hỏi của người dùng. Khi đặt câu hỏi, người dùng có thể nhận được một số gợi ý về các câu hỏi tương tự hoặc liên quan để có thể tự khám phá sâu hơn về các tri thức của pháp luật
 ## Triển khai dự án
-- Tải dự án về cho project của bạn
+### Tải dự án về cho project của bạn
+1. Cấu trúc thư mục:
+  - Khởi tạo 1 folder <tên_folder> để chứa project
+3. Lấy kho code
+  - Đối vớibot rasa: 
 ```bash
 git clone https://github.com/DAIKOOH12/bot_rasa.git
 
 ```
+  - Đối với api giao diện:
+```bash
+git clone https://github.com/DAIKOOH12/bot_rasa.git
+
+```
+ - Lúc này trong máy sẽ có 2 folder: bot_rasa và các file/thư mục liên quan đến API
+3. Các bước để tiến hàng sử dụng project
+  - Trước khi mở IDE trên máy, tại thư mục root hãy viết câu lệnh sau trên **Terminal** để khởi chạy server mongodb:
+  ```bash
+  sudo systemctl start mongod
+
+  ```
 - Yêu cầu:
-  - Python: bản mới nhất
-  - Mongodb: bản mới nhất
-  - Hệ điều hành: Windows/Linux/MacOS
+  - Python: version >= 3.8
+  - Mongodb: version >= 6.0
+  - Hệ điều hành: Linux
 
 <div align="center">
 
