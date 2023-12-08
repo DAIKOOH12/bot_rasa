@@ -68,6 +68,10 @@ git clone https://github.com/DAIKOOH12/bot_rasa.git
       - Sau khi thực hiện câu lệnh trên ta sẽ nhận được thông báo: Running on http://127.0.0.1:5000 . Truy cập dường dẫn đó và bạn sẽ nhận được kết quả dưới đây:
       ![image](https://github.com/DAIKOOH12/bot_rasa/assets/95415495/d041043f-d18c-41f7-a63e-bf56f450720b)
       - Giờ hãy thử chào hỏi, đặt câu hỏi cho con và đợi response từ nó nhé.
+- Sau đây là 1 số kết quả Q&A của bot:
+  ![image](https://github.com/DAIKOOH12/bot_rasa/assets/95415495/fd4a7f29-a816-458d-a03f-0cb1874c4761)
+  ![image](https://github.com/DAIKOOH12/bot_rasa/assets/95415495/ae37787a-6231-4a9d-b830-ef918ed7ae6a)
+
 
 - Yêu cầu:
   - Python: version >= 3.8
