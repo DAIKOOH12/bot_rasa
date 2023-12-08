@@ -10,7 +10,7 @@ Xây dựng ứng dụng hỗ trợ người dùng tra cứu, hỏi đáp tri th
 1. Cấu trúc thư mục:
   - Khởi tạo 1 folder <tên_folder> để chứa project
 3. Lấy kho code
-  - Đối vớibot rasa: 
+  - Đối với bot rasa: 
 ```bash
 git clone https://github.com/DAIKOOH12/bot_rasa.git
 
